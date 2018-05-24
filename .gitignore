@@ -1,0 +1,15 @@
+*.iml
+*.bak
+*.ipr
+*.iws
+.classpath
+.project
+target/
+/lib/
+/logs/
+/config/
+**/node_modules/
+
+*.log
+
+**/package-lock.json
