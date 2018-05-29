@@ -1,6 +1,6 @@
 # seatMap
 
-> This project has been divided to backend(seatmap-server) and frontend(seatmap-ui)
+> This web project is divided into backend(seatmap-server) and frontend(seatmap-ui)
 
 Using the below stuffs:
 
