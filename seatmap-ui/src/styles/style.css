@@ -90,3 +90,8 @@
 .todo__ulabel {
     margin-right: 5px;
 }
+
+
+.nomatch-message {
+    color: red;
+}
