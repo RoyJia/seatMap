@@ -6,9 +6,8 @@ Using the below stuffs:
 
 1. NodeJS
 2. React
-3. GraphQL
-4. SVG
-5. ...
+3. SVG
+4. ...
 
 ## Local development prerequisite:
 

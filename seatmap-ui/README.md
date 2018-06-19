@@ -35,5 +35,7 @@ ReactDOM.render((<BrowserRouter><App/></BrowserRouter>), document.getElementById
 
 当应用程序的location（浏览器的URL）匹配到某个路由的时候，Route将渲染指定的component，否则渲染null。
 
+
+## Reference
 https://github.com/rccoder/blog/issues/29
 https://www.jianshu.com/p/e3adc9b5f75c

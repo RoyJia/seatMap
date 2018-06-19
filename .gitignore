@@ -4,6 +4,7 @@
 *.iws
 .classpath
 .project
+.idea
 target/
 /lib/
 /logs/
