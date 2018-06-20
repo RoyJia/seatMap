@@ -2,7 +2,6 @@ import React from 'react';
 import Seat from '../components/Seat';
 import SearchBox from '../components/searchBox/SearchBox';
 import data from '../data.json';
-import '../styles/fullMap.css'
 
 class FullMap extends React.Component {
 
