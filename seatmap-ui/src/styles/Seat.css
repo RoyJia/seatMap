@@ -1,0 +1,16 @@
+.Seat {
+
+}
+
+.Seat_rect {
+  stroke-width: 1.5;
+  stroke: #000000;
+  fill: #49DD8E;
+}
+
+.Seat_text {
+  fill: #333333;
+  text-anchor: middle;
+  dominant-baseline: central;
+  font-family: monospace
+}

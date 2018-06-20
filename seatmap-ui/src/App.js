@@ -7,12 +7,12 @@ import NoMatch from './NoMatch';
 import FullMap from './containers/FullMap';
 
 const App = () => {
-    return <Switch>
-        <Route exact path='/' component={UserListContainer}/>
-        <Route path='/todos/:userId' component={TodoListContainer}/>
-        <Route path='/fullmap' component={FullMap} />
-        <Route component={NoMatch} />
-    </Switch>
+  return <Switch>
+    <Route exact path='/' component={UserListContainer}/>
+    <Route path='/todos/:userId' component={TodoListContainer}/>
+    <Route path='/fullmap' component={FullMap} />
+    <Route component={NoMatch} />
+  </Switch>
 };
 
 export default App;

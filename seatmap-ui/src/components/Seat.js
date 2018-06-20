@@ -1,5 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import '../styles/Seat.css';
 
 class Seat extends React.Component {
   constructor(props) {
@@ -26,11 +27,21 @@ class Seat extends React.Component {
   }
 
   render() {
-    var id = `seat_${this.props.id}`;
+    var seat_id = `seat_${this.props.id}`;
+    var seat_rect_id = `seat_rect_${this.props.id}`;
+    var seat_text_id = `seat_text_${this.props.id}`;
+    var skills = 'Skills: ';
+    this.state.userInfo.skills.forEach(element => {
+      skills = skills + element + ",";
+    });
+    var seat_title = this.state.userInfo.userName + ' - ' + this.state.userInfo.teamName + ' - ' + this.state.userInfo.jobTitle + ' - '
+      + skills.substring(0, skills.length - 1);
+      
     return (
-      <g id={id} >
-        <rect width={this.state.width} height={this.state.height} x={this.state.x} y={this.state.y} strokeWidth="1.5" stroke="#000000" fill="#49DD8E"/>
-        <text id={'text_' + id} x={this.state.userInfoCoordinate.x} y={this.state.userInfoCoordinate.y}  fill="#333" textAnchor="middle" dominantBaseline="central">{this.state.userInfo.shortName}</text>
+      <g id={seat_id}>
+        <title>{seat_title}</title>
+        <rect className="Seat_rect" id={seat_rect_id} width={this.state.width} height={this.state.height} x={this.state.x} y={this.state.y}/>
+        <text className="Seat_text" id={seat_text_id} x={this.state.userInfoCoordinate.x} y={this.state.userInfoCoordinate.y}>{this.state.userInfo.shortName}</text>
       </g>
     )
   }

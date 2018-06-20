@@ -1,0 +1,30 @@
+[
+  {
+    "seat": {
+      "id": 1, "x": 250, "y": 160,
+      "userInfo": {"userName": "Tony Stark", "shortName": "Tony", "teamName": "EPC", "jobTitle": "Junior Dev", "skills": ["Java", "JSP"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 2, "x": 200, "y": 160,
+      "userInfo": {"userName": "Thor Odinson", "shortName": "Thor", "teamName": "Platform", "jobTitle": "Senior Tester", "skills": ["Scala", "Selenium", "Java", "JavaScript"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 3, "x": 250, "y": 180,
+      "userInfo": {"userName": "Bruce Banne", "shortName": "Bruce", "teamName": "QE", "jobTitle": "Test Dev", "skills": ["Python", "PWA", "SQL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 4, "x": 200, "y": 180,
+      "userInfo": {"userName": "Steven Rogers", "shortName": "Steven", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  }
+]
