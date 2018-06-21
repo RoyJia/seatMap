@@ -8,7 +8,7 @@ class Seat extends React.Component {
     this.state = {
       x: props.x,
       y: props.y,
-      userInfo: props.userInfo || {userName: '', shortName: '', teamName: '', jobTitle: '', skills: ['none']},
+      userInfo: props.userInfo || {fullName: '', shortName: '', team: '', title: '', email: '', phone: '', skills: ['none']},
       width: 50,
       height: 20,
       userInfoCoordinate: {
@@ -35,8 +35,8 @@ class Seat extends React.Component {
     this.state.userInfo.skills.forEach(element => {
       skills = skills + element + ", ";
     });
-    var seat_title = "Name:\t" + this.state.userInfo.userName + '\nTeam:\t' + this.state.userInfo.teamName + '\nTitle:\t' + this.state.userInfo.jobTitle
-        + '\n' + skills.substring(0, skills.length - 2);
+    var seat_title = "Name:\t" + this.state.userInfo.fullName + '\nTeam:\t' + this.state.userInfo.team + '\nTitle:\t' + this.state.userInfo.title
+        + '\nEmail:\t' + this.state.userInfo.email + '\nPhone:\t' + this.state.userInfo.phone + '\n' + skills.substring(0, skills.length - 2);
 
     let title = null;
     if (this.state.isOccupied) {
@@ -45,7 +45,7 @@ class Seat extends React.Component {
 
     return (
       <g id={seat_id}>
-          {title}
+        {title}
         <rect className="Seat_rect" id={seat_rect_id} width={this.state.width} height={this.state.height} x={this.state.x} y={this.state.y}/>
         <text className="Seat_text" id={seat_text_id} x={this.state.userInfoCoordinate.x} y={this.state.userInfoCoordinate.y}>{this.state.userInfo.shortName}</text>
       </g>
