@@ -8,9 +8,10 @@ import FullMap from './containers/FullMap';
 
 const App = () => {
   return <Switch>
-    <Route exact path='/' component={UserListContainer}/>
+    <Route exact path='/' component={FullMap}/>
     <Route path='/todos/:userId' component={TodoListContainer}/>
-    <Route path='/fullmap' component={FullMap} />
+    <Route path='/userList' component={UserListContainer} />
+    <Route path='/fullMap' component={FullMap} />
     <Route component={NoMatch} />
   </Switch>
 };
