@@ -1,36 +1,1163 @@
 [
   {
     "seat": {
-      "id": 1, "x": 250, "y": 160,
-      "userInfo": {"userName": "Tony Stark", "shortName": "Tony", "teamName": "EPC", "jobTitle": "Junior Dev", "skills": ["Java", "JSP"]},
+      "id": 1, "x": 150, "y": 100,
+      "userInfo": {"userName": "", "shortName": "1", "teamName": "", "jobTitle": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 2, "x": 200, "y": 160,
-      "userInfo": {"userName": "Thor Odinson", "shortName": "Thor", "teamName": "Platform", "jobTitle": "Senior Tester", "skills": ["Scala", "Selenium", "Java", "JavaScript"]},
+      "id": 2, "x": 100, "y": 100,
+      "userInfo": {"userName": "Thor Odinson", "shortName": "2", "teamName": "Platform", "jobTitle": "Senior Tester", "skills": ["Scala", "Selenium", "Java", "JavaScript"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 3, "x": 250, "y": 180,
-      "userInfo": {"userName": "Bruce Banne", "shortName": "Bruce", "teamName": "QE", "jobTitle": "Test Dev", "skills": ["Python", "PWA", "SQL"]},
+      "id": 3, "x": 150, "y": 120,
+      "userInfo": {"userName": "Bruce Banne", "shortName": "3", "teamName": "QE", "jobTitle": "Test Dev", "skills": ["Python", "PWA", "SQL"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 4, "x": 200, "y": 180,
-      "userInfo": {"userName": "Steven Rogers", "shortName": "Steven", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "id": 4, "x": 100, "y": 120,
+      "userInfo": {"userName": "Steven Rogers", "shortName": "4", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 5, "x": 250, "y": 220,
-      "userInfo": {"userName": "TauTou", "shortName": "TT", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "id": 5, "x": 150, "y": 160,
+      "userInfo": {"userName": "TauTou", "shortName": "5", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 6, "x": 100, "y": 160,
+      "userInfo": {"userName": "TauTou", "shortName": "6", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 7, "x": 150, "y": 180,
+      "userInfo": {"userName": "TauTou", "shortName": "7", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 8, "x": 100, "y": 180,
+      "userInfo": {"userName": "TauTou", "shortName": "8", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 9, "x": 150, "y": 220,
+      "userInfo": {"userName": "TauTou", "shortName": "9", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 10, "x": 100, "y": 220,
+      "userInfo": {"userName": "TauTou", "shortName": "10", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 11, "x": 150, "y": 240,
+      "userInfo": {"userName": "TauTou", "shortName": "11", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 12, "x": 100, "y": 240,
+      "userInfo": {"userName": "TauTou", "shortName": "12", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 13, "x": 100, "y": 280,
+      "userInfo": {"userName": "TauTou", "shortName": "13", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 14, "x": 300, "y": 220,
+      "userInfo": {"userName": "Tony Stark", "shortName": "14", "teamName": "EPC", "jobTitle": "Junior Dev", "skills": ["Java", "JSP"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 15, "x": 250, "y": 220,
+      "userInfo": {"userName": "Thor Odinson", "shortName": "15", "teamName": "Platform", "jobTitle": "Senior Tester", "skills": ["Scala", "Selenium", "Java", "JavaScript"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 16, "x": 300, "y": 240,
+      "userInfo": {"userName": "Bruce Banne", "shortName": "16", "teamName": "QE", "jobTitle": "Test Dev", "skills": ["Python", "PWA", "SQL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 17, "x": 250, "y": 240,
+      "userInfo": {"userName": "Steven Rogers", "shortName": "17", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 18, "x": 300, "y": 260,
+      "userInfo": {"userName": "TauTou", "shortName": "18", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 19, "x": 250, "y": 260,
+      "userInfo": {"userName": "TauTou", "shortName": "19", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 20, "x": 300, "y": 280,
+      "userInfo": {"userName": "TauTou", "shortName": "20", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 21, "x": 250, "y": 280,
+      "userInfo": {"userName": "TauTou", "shortName": "21", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 22, "x": 300, "y": 100,
+      "userInfo": {"userName": "TauTou", "shortName": "22", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 23, "x": 250, "y": 100,
+      "userInfo": {"userName": "TauTou", "shortName": "23", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 24, "x": 300, "y": 120,
+      "userInfo": {"userName": "TauTou", "shortName": "24", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 25, "x": 250, "y": 120,
+      "userInfo": {"userName": "TauTou", "shortName": "25", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 26, "x": 250, "y": 140,
+      "userInfo": {"userName": "TauTou", "shortName": "26", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 27, "x": 300, "y": 140,
+      "userInfo": {"userName": "Tony Stark", "shortName": "27", "teamName": "EPC", "jobTitle": "Junior Dev", "skills": ["Java", "JSP"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 28, "x": 300, "y": 160,
+      "userInfo": {"userName": "Thor Odinson", "shortName": "28", "teamName": "Platform", "jobTitle": "Senior Tester", "skills": ["Scala", "Selenium", "Java", "JavaScript"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 29, "x": 250, "y": 160,
+      "userInfo": {"userName": "Bruce Banne", "shortName": "29", "teamName": "QE", "jobTitle": "Test Dev", "skills": ["Python", "PWA", "SQL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 30, "x": 450, "y": 100,
+      "userInfo": {"userName": "Steven Rogers", "shortName": "30", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 31, "x": 400, "y": 100,
+      "userInfo": {"userName": "TauTou", "shortName": "31", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 32, "x": 450, "y": 120,
+      "userInfo": {"userName": "TauTou", "shortName": "32", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 33, "x": 400, "y": 120,
+      "userInfo": {"userName": "TauTou", "shortName": "33", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 34, "x": 400, "y": 140,
+      "userInfo": {"userName": "TauTou", "shortName": "34", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 35, "x": 450, "y": 140,
+      "userInfo": {"userName": "TauTou", "shortName": "35", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 36, "x": 450, "y": 160,
+      "userInfo": {"userName": "TauTou", "shortName": "36", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 37, "x": 400, "y": 160,
+      "userInfo": {"userName": "TauTou", "shortName": "37", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 38, "x": 450, "y": 220,
+      "userInfo": {"userName": "TauTou", "shortName": "38", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 39, "x": 400, "y": 220,
+      "userInfo": {"userName": "TauTou", "shortName": "39", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 40, "x": 450, "y": 240,
+      "userInfo": {"userName": "Tony Stark", "shortName": "40", "teamName": "EPC", "jobTitle": "Junior Dev", "skills": ["Java", "JSP"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 41, "x": 400, "y": 240,
+      "userInfo": {"userName": "Thor Odinson", "shortName": "41", "teamName": "Platform", "jobTitle": "Senior Tester", "skills": ["Scala", "Selenium", "Java", "JavaScript"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 42, "x": 450, "y": 260,
+      "userInfo": {"userName": "Bruce Banne", "shortName": "42", "teamName": "QE", "jobTitle": "Test Dev", "skills": ["Python", "PWA", "SQL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 43, "x": 400, "y": 260,
+      "userInfo": {"userName": "Steven Rogers", "shortName": "43", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 44, "x": 450, "y": 280,
+      "userInfo": {"userName": "TauTou", "shortName": "44", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 45, "x": 400, "y": 280,
+      "userInfo": {"userName": "TauTou", "shortName": "45", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 46, "x": 550, "y": 280,
+      "userInfo": {"userName": "TauTou", "shortName": "46", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 47, "x": 500, "y": 280,
+      "userInfo": {"userName": "TauTou", "shortName": "47", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 48, "x": 550, "y": 220,
+      "userInfo": {"userName": "TauTou", "shortName": "48", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 49, "x": 550, "y": 240,
+      "userInfo": {"userName": "TauTou", "shortName": "49", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 50, "x": 700, "y": 80,
+      "userInfo": {"userName": "TauTou", "shortName": "50", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 51, "x": 700, "y": 100,
+      "userInfo": {"userName": "TauTou", "shortName": "51", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 52, "x": 700, "y": 120,
+      "userInfo": {"userName": "TauTou", "shortName": "52", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 53, "x": 700, "y": 140,
+      "userInfo": {"userName": "Tony Stark", "shortName": "53", "teamName": "EPC", "jobTitle": "Junior Dev", "skills": ["Java", "JSP"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 54, "x": 700, "y": 160,
+      "userInfo": {"userName": "Thor Odinson", "shortName": "54", "teamName": "Platform", "jobTitle": "Senior Tester", "skills": ["Scala", "Selenium", "Java", "JavaScript"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 55, "x": 800, "y": 100,
+      "userInfo": {"userName": "Bruce Banne", "shortName": "55", "teamName": "QE", "jobTitle": "Test Dev", "skills": ["Python", "PWA", "SQL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 56, "x": 800, "y": 120,
+      "userInfo": {"userName": "Steven Rogers", "shortName": "56", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 57, "x": 800, "y": 140,
+      "userInfo": {"userName": "TauTou", "shortName": "57", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 58, "x": 800, "y": 160,
+      "userInfo": {"userName": "TauTou", "shortName": "58", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 59, "x": 850, "y": 100,
+      "userInfo": {"userName": "TauTou", "shortName": "59", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 60, "x": 850, "y": 120,
+      "userInfo": {"userName": "TauTou", "shortName": "60", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 61, "x": 850, "y": 140,
+      "userInfo": {"userName": "TauTou", "shortName": "61", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 62, "x": 850, "y": 160,
+      "userInfo": {"userName": "TauTou", "shortName": "62", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 63, "x": 900, "y": 80,
+      "userInfo": {"userName": "TauTou", "shortName": "63", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 64, "x": 950, "y": 80,
+      "userInfo": {"userName": "TauTou", "shortName": "64", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 65, "x": 950, "y": 100,
+      "userInfo": {"userName": "TauTou", "shortName": "65", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 66, "x": 950, "y": 120,
+      "userInfo": {"userName": "Tony Stark", "shortName": "66", "teamName": "EPC", "jobTitle": "Junior Dev", "skills": ["Java", "JSP"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 67, "x": 950, "y": 140,
+      "userInfo": {"userName": "Thor Odinson", "shortName": "67", "teamName": "Platform", "jobTitle": "Senior Tester", "skills": ["Scala", "Selenium", "Java", "JavaScript"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 68, "x": 950, "y": 160,
+      "userInfo": {"userName": "Bruce Banne", "shortName": "68", "teamName": "QE", "jobTitle": "Test Dev", "skills": ["Python", "PWA", "SQL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 69, "x": 1000, "y": 80,
+      "userInfo": {"userName": "Steven Rogers", "shortName": "69", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 70, "x": 1050, "y": 80,
+      "userInfo": {"userName": "TauTou", "shortName": "70", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 71, "x": 1050, "y": 100,
+      "userInfo": {"userName": "TauTou", "shortName": "71", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 72, "x": 1050, "y": 120,
+      "userInfo": {"userName": "TauTou", "shortName": "72", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 73, "x": 1050, "y": 140,
+      "userInfo": {"userName": "TauTou", "shortName": "73", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 74, "x": 1100, "y": 80,
+      "userInfo": {"userName": "TauTou", "shortName": "74", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 75, "x": 1100, "y": 100,
+      "userInfo": {"userName": "TauTou", "shortName": "75", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 76, "x": 1100, "y": 120,
+      "userInfo": {"userName": "TauTou", "shortName": "76", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 77, "x": 1100, "y": 140,
+      "userInfo": {"userName": "TauTou", "shortName": "77", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 78, "x": 1200, "y": 80,
+      "userInfo": {"userName": "TauTou", "shortName": "78", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 79, "x": 1200, "y": 100,
+      "userInfo": {"userName": "Tony Stark", "shortName": "79", "teamName": "EPC", "jobTitle": "Junior Dev", "skills": ["Java", "JSP"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 80, "x": 1200, "y": 120,
+      "userInfo": {"userName": "Thor Odinson", "shortName": "80", "teamName": "Platform", "jobTitle": "Senior Tester", "skills": ["Scala", "Selenium", "Java", "JavaScript"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 81, "x": 1200, "y": 140,
+      "userInfo": {"userName": "Bruce Banne", "shortName": "81", "teamName": "QE", "jobTitle": "Test Dev", "skills": ["Python", "PWA", "SQL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 82, "x": 1250, "y": 80,
+      "userInfo": {"userName": "Steven Rogers", "shortName": "82", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 83, "x": 1250, "y": 100,
+      "userInfo": {"userName": "TauTou", "shortName": "83", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 84, "x": 1250, "y": 120,
+      "userInfo": {"userName": "TauTou", "shortName": "84", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 85, "x": 1250, "y": 140,
+      "userInfo": {"userName": "TauTou", "shortName": "85", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 86, "x": 1300, "y": 80,
+      "userInfo": {"userName": "TauTou", "shortName": "86", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 87, "x": 1400, "y": 80,
+      "userInfo": {"userName": "TauTou", "shortName": "87", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 88, "x": 1400, "y": 120,
+      "userInfo": {"userName": "TauTou", "shortName": "88", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 89, "x": 1400, "y": 140,
+      "userInfo": {"userName": "TauTou", "shortName": "89", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 90, "x": 1400, "y": 180,
+      "userInfo": {"userName": "TauTou", "shortName": "90", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 91, "x": 1400, "y": 200,
+      "userInfo": {"userName": "TauTou", "shortName": "91", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 92, "x": 1450, "y": 80,
+      "userInfo": {"userName": "Tony Stark", "shortName": "92", "teamName": "EPC", "jobTitle": "Junior Dev", "skills": ["Java", "JSP"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 93, "x": 1450, "y": 120,
+      "userInfo": {"userName": "Thor Odinson", "shortName": "93", "teamName": "Platform", "jobTitle": "Senior Tester", "skills": ["Scala", "Selenium", "Java", "JavaScript"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 94, "x": 1450, "y": 140,
+      "userInfo": {"userName": "Bruce Banne", "shortName": "94", "teamName": "QE", "jobTitle": "Test Dev", "skills": ["Python", "PWA", "SQL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 95, "x": 1450, "y": 180,
+      "userInfo": {"userName": "Steven Rogers", "shortName": "95", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 96, "x": 1450, "y": 200,
+      "userInfo": {"userName": "TauTou", "shortName": "96", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 97, "x": 1500, "y": 80,
+      "userInfo": {"userName": "TauTou", "shortName": "97", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 98, "x": 1500, "y": 120,
+      "userInfo": {"userName": "TauTou", "shortName": "98", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 99, "x": 1500, "y": 140,
+      "userInfo": {"userName": "TauTou", "shortName": "99", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 100, "x": 1500, "y": 180,
+      "userInfo": {"userName": "TauTou", "shortName": "100", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 101, "x": 1500, "y": 200,
+      "userInfo": {"userName": "TauTou", "shortName": "101", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 102, "x": 1550, "y": 80,
+      "userInfo": {"userName": "TauTou", "shortName": "102", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 103, "x": 1550, "y": 120,
+      "userInfo": {"userName": "TauTou", "shortName": "103", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 104, "x": 1550, "y": 140,
+      "userInfo": {"userName": "TauTou", "shortName": "104", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 105, "x": 1550, "y": 180,
+      "userInfo": {"userName": "Tony Stark", "shortName": "105", "teamName": "EPC", "jobTitle": "Junior Dev", "skills": ["Java", "JSP"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 106, "x": 1550, "y": 200,
+      "userInfo": {"userName": "Thor Odinson", "shortName": "106", "teamName": "Platform", "jobTitle": "Senior Tester", "skills": ["Scala", "Selenium", "Java", "JavaScript"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 107, "x": 1400, "y": 240,
+      "userInfo": {"userName": "Bruce Banne", "shortName": "107", "teamName": "QE", "jobTitle": "Test Dev", "skills": ["Python", "PWA", "SQL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 108, "x": 1450, "y": 240,
+      "userInfo": {"userName": "Steven Rogers", "shortName": "108", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 109, "x": 1500, "y": 240,
+      "userInfo": {"userName": "TauTou", "shortName": "109", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 110, "x": 1550, "y": 240,
+      "userInfo": {"userName": "TauTou", "shortName": "110", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 111, "x": 1250, "y": 220,
+      "userInfo": {"userName": "TauTou", "shortName": "111", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 112, "x": 1250, "y": 240,
+      "userInfo": {"userName": "TauTou", "shortName": "112", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 113, "x": 1250, "y": 260,
+      "userInfo": {"userName": "TauTou", "shortName": "113", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 114, "x": 1250, "y": 280,
+      "userInfo": {"userName": "TauTou", "shortName": "114", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 115, "x": 1200, "y": 220,
+      "userInfo": {"userName": "TauTou", "shortName": "115", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 116, "x": 1200, "y": 240,
+      "userInfo": {"userName": "TauTou", "shortName": "116", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 117, "x": 1100, "y": 220,
+      "userInfo": {"userName": "TauTou", "shortName": "117", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 118, "x": 1100, "y": 240,
+      "userInfo": {"userName": "Tony Stark", "shortName": "118", "teamName": "EPC", "jobTitle": "Junior Dev", "skills": ["Java", "JSP"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 119, "x": 1100, "y": 260,
+      "userInfo": {"userName": "Thor Odinson", "shortName": "119", "teamName": "Platform", "jobTitle": "Senior Tester", "skills": ["Scala", "Selenium", "Java", "JavaScript"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 120, "x": 1100, "y": 280,
+      "userInfo": {"userName": "Bruce Banne", "shortName": "120", "teamName": "QE", "jobTitle": "Test Dev", "skills": ["Python", "PWA", "SQL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 121, "x": 1400, "y": 280,
+      "userInfo": {"userName": "Steven Rogers", "shortName": "121", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 122, "x": 1400, "y": 300,
+      "userInfo": {"userName": "TauTou", "shortName": "122", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 123, "x": 1400, "y": 320,
+      "userInfo": {"userName": "TauTou", "shortName": "123", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 124, "x": 1400, "y": 340,
+      "userInfo": {"userName": "TauTou", "shortName": "124", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 125, "x": 1400, "y": 360,
+      "userInfo": {"userName": "TauTou", "shortName": "125", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 126, "x": 1400, "y": 380,
+      "userInfo": {"userName": "TauTou", "shortName": "126", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 127, "x": 1350, "y": 320,
+      "userInfo": {"userName": "TauTou", "shortName": "127", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 128, "x": 1350, "y": 340,
+      "userInfo": {"userName": "TauTou", "shortName": "128", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 129, "x": 1350, "y": 360,
+      "userInfo": {"userName": "TauTou", "shortName": "129", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 130, "x": 1350, "y": 380,
+      "userInfo": {"userName": "TauTou", "shortName": "130", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 131, "x": 1400, "y": 560,
+      "userInfo": {"userName": "TauTou", "shortName": "131", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 132, "x": 1450, "y": 560,
+      "userInfo": {"userName": "TauTou", "shortName": "132", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 133, "x": 1500, "y": 560,
+      "userInfo": {"userName": "TauTou", "shortName": "133", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 134, "x": 1400, "y": 600,
+      "userInfo": {"userName": "TauTou", "shortName": "134", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 135, "x": 1450, "y": 600,
+      "userInfo": {"userName": "TauTou", "shortName": "135", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 136, "x": 1500, "y": 600,
+      "userInfo": {"userName": "TauTou", "shortName": "136", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 137, "x": 1400, "y": 620,
+      "userInfo": {"userName": "TauTou", "shortName": "137", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 138, "x": 1450, "y": 620,
+      "userInfo": {"userName": "TauTou", "shortName": "138", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 139, "x": 1500, "y": 620,
+      "userInfo": {"userName": "TauTou", "shortName": "139", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 140, "x": 1400, "y": 660,
+      "userInfo": {"userName": "TauTou", "shortName": "140", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 141, "x": 1450, "y": 660,
+      "userInfo": {"userName": "TauTou", "shortName": "141", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 142, "x": 1500, "y": 660,
+      "userInfo": {"userName": "TauTou", "shortName": "142", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 143, "x": 1400, "y": 680,
+      "userInfo": {"userName": "TauTou", "shortName": "143", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 144, "x": 1450, "y": 680,
+      "userInfo": {"userName": "TauTou", "shortName": "144", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 145, "x": 1500, "y": 680,
+      "userInfo": {"userName": "TauTou", "shortName": "145", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 146, "x": 1400, "y": 720,
+      "userInfo": {"userName": "TauTou", "shortName": "146", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 147, "x": 1450, "y": 720,
+      "userInfo": {"userName": "TauTou", "shortName": "147", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 148, "x": 1500, "y": 720,
+      "userInfo": {"userName": "TauTou", "shortName": "148", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 149, "x": 1400, "y": 740,
+      "userInfo": {"userName": "TauTou", "shortName": "149", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 150, "x": 1450, "y": 740,
+      "userInfo": {"userName": "TauTou", "shortName": "150", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 151, "x": 1500, "y": 740,
+      "userInfo": {"userName": "TauTou", "shortName": "151", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 152, "x": 1400, "y": 780,
+      "userInfo": {"userName": "TauTou", "shortName": "152", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 153, "x": 1450, "y": 780,
+      "userInfo": {"userName": "TauTou", "shortName": "153", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 154, "x": 1500, "y": 780,
+      "userInfo": {"userName": "TauTou", "shortName": "154", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 155, "x": 1550, "y": 560,
+      "userInfo": {"userName": "TauTou", "shortName": "155", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 156, "x": 1550, "y": 580,
+      "userInfo": {"userName": "TauTou", "shortName": "156", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 157, "x": 1550, "y": 600,
+      "userInfo": {"userName": "TauTou", "shortName": "157", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 158, "x": 1550, "y": 620,
+      "userInfo": {"userName": "TauTou", "shortName": "158", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 159, "x": 1550, "y": 640,
+      "userInfo": {"userName": "TauTou", "shortName": "159", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 160, "x": 1550, "y": 660,
+      "userInfo": {"userName": "TauTou", "shortName": "160", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 161, "x": 1550, "y": 680,
+      "userInfo": {"userName": "TauTou", "shortName": "161", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 162, "x": 1550, "y": 700,
+      "userInfo": {"userName": "TauTou", "shortName": "162", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 163, "x": 1550, "y": 720,
+      "userInfo": {"userName": "TauTou", "shortName": "163", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 164, "x": 1550, "y": 740,
+      "userInfo": {"userName": "TauTou", "shortName": "164", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 165, "x": 1550, "y": 760,
+      "userInfo": {"userName": "TauTou", "shortName": "165", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
+  },
+  {
+    "seat": {
+      "id": 166, "x": 1550, "y": 780,
+      "userInfo": {"userName": "TauTou", "shortName": "166", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
       "isOccupied": true
     }
   }
