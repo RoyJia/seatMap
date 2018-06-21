@@ -9,6 +9,7 @@
   {
     "seat": {
       "id": 2, "x": 100, "y": 100,
+      "userInfo": {"fullName": "Thor Odinson", "shortName": "2", "team": "Platform", "title": "Senior Tester", "email": "@qq.com", "phone": "10086", "skills": ["Scala", "Selenium", "Java", "JavaScript"]},
       "isOccupied": true
     }
   },
