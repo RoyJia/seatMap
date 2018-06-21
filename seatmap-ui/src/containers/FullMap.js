@@ -11,14 +11,14 @@ class FullMap extends React.Component {
       <div>
         <SearchBox/>
 
-        <svg id="seat_map" x={0} y={0} width="100vw" height="100vh" xmlns="http://www.w3.org/2000/svg">
-          <g>
-            <title>background</title>
-            <rect x="-1" y="-1" width="100vw" height="1082" id="canvas_background" fill="#fff"/>
-            <g id="canvasGrid" display="none">
-              <rect id="svg_13" width="100%" height="100%" x="0" y="0" strokeWidth="0" fill="url(#gridpattern)"/>
-            </g>
-          </g>
+        <svg id="seat_map" x={0} y={0} width="1920" height="1080" xmlns="http://www.w3.org/2000/svg">
+          {/*<g>*/}
+            {/*<title>background</title>*/}
+            {/*<rect x="-1" y="-1" width="100vw" height="1082" id="canvas_background" fill="#fff"/>*/}
+            {/*<g id="canvasGrid" display="none">*/}
+              {/*<rect id="svg_13" width="100%" height="100%" x="0" y="0" strokeWidth="0" fill="url(#gridpattern)"/>*/}
+            {/*</g>*/}
+          {/*</g>*/}
           <g>
             <title>Layer 1</title>
             {
