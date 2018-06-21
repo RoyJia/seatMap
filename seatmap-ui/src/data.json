@@ -26,5 +26,12 @@
       "userInfo": {"userName": "Steven Rogers", "shortName": "Steven", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
       "isOccupied": true
     }
+  },
+  {
+    "seat": {
+      "id": 5, "x": 250, "y": 220,
+      "userInfo": {"userName": "TauTou", "shortName": "TT", "teamName": "GRO", "jobTitle": "Engineer", "skills": ["React", "Java", "JSP", "FTL"]},
+      "isOccupied": true
+    }
   }
 ]
