@@ -2,23 +2,48 @@ import React from 'react';
 import Seat from '../components/Seat';
 import SearchBox from '../components/searchBox/SearchBox';
 import data from '../data.json';
+import * as d3 from 'd3';
+import Dimensions from 'react-dimensions';
 
 class FullMap extends React.Component {
 
+  componentDidMount() {
+    const contentWrap = d3.select('#contentWrap');
+    const svg = d3.select('svg');
+    // contentWrap.attr('pointer-events', 'none');
+
+    const zoomed = () => {
+      const {k, x, y} = d3.event.transform;
+      contentWrap.attr('transform', `translate(${x}, ${y}) scale(${k})`);
+    }
+
+    const zoom = d3.zoom()
+      .scaleExtent([1, 5])
+      // .translateExtent([[-100, -100], [this.state.svgViewportWidth-500, this.state.svgViewportHeight-500]])
+      .on('zoom', zoomed);
+
+    svg.append('rect')
+      .attr('class', 'mouse-capture')
+      .attr('x', 0)
+      .attr('y', 0)
+      .attr('width', '100vw')
+      .attr('height', '100vh')
+      .style('fill', 'white')
+      .lower() // put it below the map
+      .call(zoom);
+  }
 
   render () {
     return (
       <div>
         <SearchBox/>
 
-        <svg width="1680" height="1050" xmlns="http://www.w3.org/2000/svg">
-          <g>
-            <rect x="-1" y="-1" width="1680" height="1050" id="canvas_background" fill="#fff"/>
-            <g id="canvasGrid" display="none">
-              <rect id="svg_1" width="100%" height="100%" x="0" y="0" strokeWidth="0" fill="url(#gridpattern)"/>
-            </g>
-          </g>
-          <g>
+        <svg
+          width="100vw" height="100vh"
+          // viewBox={[0, 0, this.state.svgViewportWidth, this.state.svgViewportHeight].join(' ')}
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <g id="contentWrap">
             {
               data.map((item) => {
                 return <Seat key={item.seat.id} {...item.seat}/>;
@@ -45,4 +70,4 @@ class FullMap extends React.Component {
   }
 }
 
-export default FullMap;
+export default Dimensions()(FullMap);
