@@ -9,7 +9,7 @@ class Seat extends React.Component {
       x: props.x,
       y: props.y,
       userInfo: props.userInfo || {fullName: '', shortName: '', team: '', title: '', email: '', phone: '', skills: ['none']},
-      width: 50,
+      width: 60,
       height: 20,
       userInfoCoordinate: {
         x: props.x,
@@ -20,7 +20,7 @@ class Seat extends React.Component {
   }
 
   componentDidMount() {
-    var userInfoCoordinate = {
+    let userInfoCoordinate = {
       x: this.props.x + this.state.width/2,
       y: this.props.y + this.state.height/2
     }
@@ -28,15 +28,19 @@ class Seat extends React.Component {
   }
 
   render() {
-    var seat_id = `seat_${this.props.id}`;
-    var seat_rect_id = `seat_rect_${this.props.id}`;
-    var seat_text_id = `seat_text_${this.props.id}`;
-    var skills = 'Skills:\t';
+    let seat_id = `seat_${this.props.id}`;
+    let seat_rect_id = `seat_rect_${this.props.id}`;
+    let seat_text_id = `seat_text_${this.props.id}`;
+    let skills = 'Skills:\t';
     this.state.userInfo.skills.forEach(element => {
       skills = skills + element + ", ";
     });
-    var seat_title = "Name:\t" + this.state.userInfo.fullName + '\nTeam:\t' + this.state.userInfo.team + '\nTitle:\t' + this.state.userInfo.title
-        + '\nEmail:\t' + this.state.userInfo.email + '\nPhone:\t' + this.state.userInfo.phone + '\n' + skills.substring(0, skills.length - 2);
+    const seat_title = "Name:\t" + this.state.userInfo.fullName + '\n' +
+      'Team:\t' + this.state.userInfo.team + '\n' +
+      'Title:\t' + this.state.userInfo.title + '\n' +
+      'Email:\t' + this.state.userInfo.email + '\n' +
+      'Phone:\t' + this.state.userInfo.phone + '\n' +
+      skills.substring(0, skills.length - 2);
 
     let title = null;
     if (this.state.isOccupied) {
