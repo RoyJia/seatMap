@@ -10,7 +10,7 @@ class Seat extends React.Component {
       y: props.y,
       userInfo: props.userInfo || {fullName: '', shortName: '', team: '', title: '', email: '', phone: '', skills: ['none']},
       width: 60,
-      height: 20,
+      height: 25,
       userInfoCoordinate: {
         x: props.x,
         y: props.y
