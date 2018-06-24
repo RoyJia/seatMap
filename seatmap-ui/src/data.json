@@ -1,315 +1,315 @@
 [
   {
     "seat": {
-      "id": 1, "x": 150, "y": 100,
+      "id": 1, "x": 130, "y": 100,
       "userInfo": {"fullName": "Carmer Jin (金肖)", "shortName": "Carmer", "team": "Everest Deprecation", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 2, "x": 100, "y": 100,
+      "id": 2, "x": 70, "y": 100,
       "userInfo": {"fullName": "Ken Zhuo (卓家健)", "shortName": "Ken", "team": "Quality Engineering", "title": "", "email": "", "phone": "", "skills": ["Java", "Oracle"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 3, "x": 150, "y": 120,
+      "id": 3, "x": 130, "y": 120,
       "userInfo": {"fullName": "Ryan Deng", "shortName": "Ryan", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 4, "x": 100, "y": 120,
+      "id": 4, "x": 70, "y": 120,
       "userInfo": {"fullName": "Sean Chen", "shortName": "Sean", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 5, "x": 150, "y": 160,
+      "id": 5, "x": 130, "y": 160,
       "userInfo": {"fullName": "Jenny Peng", "shortName": "Jenny", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 6, "x": 100, "y": 160,
+      "id": 6, "x": 70, "y": 160,
       "userInfo": {"fullName": "", "shortName": "6", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 7, "x": 150, "y": 180,
+      "id": 7, "x": 130, "y": 180,
       "userInfo": {"fullName": "Paula Li", "shortName": "Paula", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 8, "x": 100, "y": 180,
+      "id": 8, "x": 70, "y": 180,
       "userInfo": {"fullName": "Michael Xu", "shortName": "Michael", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 9, "x": 150, "y": 220,
+      "id": 9, "x": 130, "y": 220,
       "userInfo": {"fullName": "", "shortName": "9", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 10, "x": 100, "y": 220,
+      "id": 10, "x": 70, "y": 220,
       "userInfo": {"fullName": "", "shortName": "10", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 11, "x": 150, "y": 240,
+      "id": 11, "x": 130, "y": 240,
       "userInfo": {"fullName": "NURUL FITRI", "shortName": "NURUL", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 12, "x": 100, "y": 240,
+      "id": 12, "x": 70, "y": 240,
       "userInfo": {"fullName": "Sophya Ma", "shortName": "Sophya", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 13, "x": 100, "y": 280,
+      "id": 13, "x": 70, "y": 280,
       "userInfo": {"fullName": "Lily Zou", "shortName": "Lily", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 14, "x": 300, "y": 220,
+      "id": 14, "x": 280, "y": 220,
       "userInfo": {"fullName": "Edwin Zhou", "shortName": "Edwin", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 15, "x": 250, "y": 220,
+      "id": 15, "x": 220, "y": 220,
       "userInfo": {"fullName": "Andy Peng", "shortName": "Andy", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 16, "x": 300, "y": 240,
+      "id": 16, "x": 280, "y": 240,
       "userInfo": {"fullName": "Wheeler Wang", "shortName": "Wheeler", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 17, "x": 250, "y": 240,
+      "id": 17, "x": 220, "y": 240,
       "userInfo": {"fullName": "Alice Chen", "shortName": "Alice", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 18, "x": 300, "y": 260,
+      "id": 18, "x": 280, "y": 260,
       "userInfo": {"fullName": "Winnie Xia", "shortName": "Winnie", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 19, "x": 250, "y": 260,
+      "id": 19, "x": 220, "y": 260,
       "userInfo": {"fullName": "Alan Zhong", "shortName": "Alan", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 20, "x": 300, "y": 280,
+      "id": 20, "x": 280, "y": 280,
       "userInfo": {"fullName": "Even Liu", "shortName": "Even", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 21, "x": 250, "y": 280,
+      "id": 21, "x": 220, "y": 280,
       "userInfo": {"fullName": "Yi Liao", "shortName": "Yi", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 22, "x": 300, "y": 100,
+      "id": 22, "x": 280, "y": 100,
       "userInfo": {"fullName": "Merge Mai", "shortName": "Merge", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 23, "x": 250, "y": 100,
+      "id": 23, "x": 220, "y": 100,
       "userInfo": {"fullName": "Alice Zhu", "shortName": "Alice", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 24, "x": 300, "y": 120,
+      "id": 24, "x": 280, "y": 120,
       "userInfo": {"fullName": "Lerry Tao", "shortName": "Lerry", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 25, "x": 250, "y": 120,
+      "id": 25, "x": 220, "y": 120,
       "userInfo": {"fullName": "Sam Liu", "shortName": "Sam", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 26, "x": 250, "y": 140,
+      "id": 26, "x": 220, "y": 140,
       "userInfo": {"fullName": "Joyce Xiong", "shortName": "Joyce", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 27, "x": 300, "y": 140,
+      "id": 27, "x": 280, "y": 140,
       "userInfo": {"fullName": "Stephanie Hu", "shortName": "Stephanie", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 28, "x": 300, "y": 160,
+      "id": 28, "x": 280, "y": 160,
       "userInfo": {"fullName": "Carry Luo", "shortName": "Carry", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 29, "x": 250, "y": 160,
+      "id": 29, "x": 220, "y": 160,
       "userInfo": {"fullName": "Firnny Sun", "shortName": "Firnny", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 30, "x": 450, "y": 100,
+      "id": 30, "x": 430, "y": 100,
       "userInfo": {"fullName": "", "shortName": "30", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 31, "x": 400, "y": 100,
+      "id": 31, "x": 370, "y": 100,
       "userInfo": {"fullName": "Popo Liang", "shortName": "Popo", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 32, "x": 450, "y": 120,
+      "id": 32, "x": 430, "y": 120,
       "userInfo": {"fullName": "", "shortName": "32", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 33, "x": 400, "y": 120,
+      "id": 33, "x": 370, "y": 120,
       "userInfo": {"fullName": "Queena Xiang", "shortName": "Queena", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 34, "x": 400, "y": 140,
+      "id": 34, "x": 370, "y": 140,
       "userInfo": {"fullName": "Sonia Feng", "shortName": "Sonia", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 35, "x": 450, "y": 140,
+      "id": 35, "x": 430, "y": 140,
       "userInfo": {"fullName": "Tom Li", "shortName": "Tom", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 36, "x": 450, "y": 160,
+      "id": 36, "x": 430, "y": 160,
       "userInfo": {"fullName": "Bernice Zhao", "shortName": "Bernice", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 37, "x": 400, "y": 160,
+      "id": 37, "x": 370, "y": 160,
       "userInfo": {"fullName": "Lily Yuan", "shortName": "Lily", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 38, "x": 450, "y": 220,
+      "id": 38, "x": 430, "y": 220,
       "userInfo": {"fullName": "Smith Zhang", "shortName": "Smith", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 39, "x": 400, "y": 220,
+      "id": 39, "x": 370, "y": 220,
       "userInfo": {"fullName": "Boot Pan", "shortName": "Boot", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 40, "x": 450, "y": 240,
+      "id": 40, "x": 430, "y": 240,
       "userInfo": {"fullName": "Echo Long", "shortName": "Echo", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 41, "x": 400, "y": 240,
+      "id": 41, "x": 370, "y": 240,
       "userInfo": {"fullName": "", "shortName": "41", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 42, "x": 450, "y": 260,
+      "id": 42, "x": 430, "y": 260,
       "userInfo": {"fullName": "", "shortName": "42", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 43, "x": 400, "y": 260,
+      "id": 43, "x": 370, "y": 260,
       "userInfo": {"fullName": "Catherine Huang", "shortName": "Catherine", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 44, "x": 450, "y": 280,
+      "id": 44, "x": 430, "y": 280,
       "userInfo": {"fullName": "Kevin Sheng", "shortName": "Kevin", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 45, "x": 400, "y": 280,
+      "id": 45, "x": 370, "y": 280,
       "userInfo": {"fullName": "Angie Wang", "shortName": "Angie", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
@@ -323,273 +323,273 @@
   },
   {
     "seat": {
-      "id": 47, "x": 500, "y": 280,
+      "id": 47, "x": 490, "y": 280,
       "userInfo": {"fullName": "", "shortName": "47", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 48, "x": 550, "y": 220,
+      "id": 48, "x": 520, "y": 220,
       "userInfo": {"fullName": "Sam Chen", "shortName": "Sam", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 49, "x": 550, "y": 240,
+      "id": 49, "x": 520, "y": 240,
       "userInfo": {"fullName": "Lucien Chen", "shortName": "Lucien", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 50, "x": 700, "y": 80,
+      "id": 50, "x": 670, "y": 80,
       "userInfo": {"fullName": "", "shortName": "50", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 51, "x": 700, "y": 100,
+      "id": 51, "x": 670, "y": 100,
       "userInfo": {"fullName": "", "shortName": "51", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 52, "x": 700, "y": 120,
+      "id": 52, "x": 670, "y": 120,
       "userInfo": {"fullName": "Victor Yi", "shortName": "Victor", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 53, "x": 700, "y": 140,
+      "id": 53, "x": 670, "y": 140,
       "userInfo": {"fullName": "Julian Zhu", "shortName": "Julian", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 54, "x": 700, "y": 160,
+      "id": 54, "x": 670, "y": 160,
       "userInfo": {"fullName": "Joyce Gao", "shortName": "Joyce", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 55, "x": 800, "y": 100,
+      "id": 55, "x": 760, "y": 100,
       "userInfo": {"fullName": "Darren Zhou", "shortName": "Darren", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 56, "x": 800, "y": 120,
+      "id": 56, "x": 760, "y": 120,
       "userInfo": {"fullName": "Terry Tao", "shortName": "Terry", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 57, "x": 800, "y": 140,
+      "id": 57, "x": 760, "y": 140,
       "userInfo": {"fullName": "Haven Lin", "shortName": "Haven", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 58, "x": 800, "y": 160,
+      "id": 58, "x": 760, "y": 160,
       "userInfo": {"fullName": "", "shortName": "58", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 59, "x": 850, "y": 100,
+      "id": 59, "x": 820, "y": 100,
       "userInfo": {"fullName": "Freya Xie", "shortName": "Freya", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 60, "x": 850, "y": 120,
+      "id": 60, "x": 820, "y": 120,
       "userInfo": {"fullName": "Jack Wu", "shortName": "Jack", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 61, "x": 850, "y": 140,
+      "id": 61, "x": 820, "y": 140,
       "userInfo": {"fullName": "Saffi Yang", "shortName": "Saffi", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 62, "x": 850, "y": 160,
+      "id": 62, "x": 820, "y": 160,
       "userInfo": {"fullName": "Allen Su", "shortName": "Allen", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 63, "x": 900, "y": 80,
+      "id": 63, "x": 850, "y": 80,
       "userInfo": {"fullName": "", "shortName": "63", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 64, "x": 950, "y": 80,
+      "id": 64, "x": 910, "y": 80,
       "userInfo": {"fullName": "Richard Xu", "shortName": "Richard", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 65, "x": 950, "y": 100,
+      "id": 65, "x": 910, "y": 100,
       "userInfo": {"fullName": "Graham Ren", "shortName": "Graham", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 66, "x": 950, "y": 120,
+      "id": 66, "x": 910, "y": 120,
       "userInfo": {"fullName": "", "shortName": "66", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 67, "x": 950, "y": 140,
+      "id": 67, "x": 910, "y": 140,
       "userInfo": {"fullName": "Sven Zhang", "shortName": "Sven", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 68, "x": 950, "y": 160,
+      "id": 68, "x": 910, "y": 160,
       "userInfo": {"fullName": "Yao Guo", "shortName": "Yao", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 69, "x": 1000, "y": 80,
+      "id": 69, "x": 970, "y": 80,
       "userInfo": {"fullName": "Alex Ren", "shortName": "Alex", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 70, "x": 1050, "y": 80,
+      "id": 70, "x": 1030, "y": 80,
       "userInfo": {"fullName": "Walker Zhang", "shortName": "Walker", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 71, "x": 1050, "y": 100,
+      "id": 71, "x": 1030, "y": 100,
       "userInfo": {"fullName": "Jane Deng", "shortName": "Jane", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 72, "x": 1050, "y": 120,
+      "id": 72, "x": 1030, "y": 120,
       "userInfo": {"fullName": "Nicole Fu", "shortName": "Nicole", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 73, "x": 1050, "y": 140,
+      "id": 73, "x": 1030, "y": 140,
       "userInfo": {"fullName": "Leo Tang", "shortName": "Leo", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 74, "x": 1100, "y": 80,
+      "id": 74, "x": 1090, "y": 80,
       "userInfo": {"fullName": "Helen Chen", "shortName": "Helen", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 75, "x": 1100, "y": 100,
+      "id": 75, "x": 1090, "y": 100,
       "userInfo": {"fullName": "", "shortName": "75", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 76, "x": 1100, "y": 120,
+      "id": 76, "x": 1090, "y": 120,
       "userInfo": {"fullName": "Helen Fu", "shortName": "Helen", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 77, "x": 1100, "y": 140,
+      "id": 77, "x": 1090, "y": 140,
       "userInfo": {"fullName": "Manson Peng", "shortName": "Manson", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 78, "x": 1200, "y": 80,
+      "id": 78, "x": 1180, "y": 80,
       "userInfo": {"fullName": "Daisy Peng", "shortName": "Daisy", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 79, "x": 1200, "y": 100,
+      "id": 79, "x": 1180, "y": 100,
       "userInfo": {"fullName": "Aaron Jing", "shortName": "Aaron", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 80, "x": 1200, "y": 120,
+      "id": 80, "x": 1180, "y": 120,
       "userInfo": {"fullName": "Ken Huang", "shortName": "Ken", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 81, "x": 1200, "y": 140,
+      "id": 81, "x": 1180, "y": 140,
       "userInfo": {"fullName": "", "shortName": "81", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 82, "x": 1250, "y": 80,
+      "id": 82, "x": 1240, "y": 80,
       "userInfo": {"fullName": "", "shortName": "82", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 83, "x": 1250, "y": 100,
+      "id": 83, "x": 1240, "y": 100,
       "userInfo": {"fullName": "", "shortName": "83", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 84, "x": 1250, "y": 120,
+      "id": 84, "x": 1240, "y": 120,
       "userInfo": {"fullName": "", "shortName": "84", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 85, "x": 1250, "y": 140,
+      "id": 85, "x": 1240, "y": 140,
       "userInfo": {"fullName": "Simple Zhang", "shortName": "Simple", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
@@ -603,35 +603,35 @@
   },
   {
     "seat": {
-      "id": 87, "x": 1400, "y": 80,
+      "id": 87, "x": 1390, "y": 80,
       "userInfo": {"fullName": "Beck Jia", "shortName": "Beck", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 88, "x": 1400, "y": 120,
+      "id": 88, "x": 1390, "y": 120,
       "userInfo": {"fullName": "Frank Deng", "shortName": "Frank", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 89, "x": 1400, "y": 140,
+      "id": 89, "x": 1390, "y": 140,
       "userInfo": {"fullName": "Anny Qin", "shortName": "Anny", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 90, "x": 1400, "y": 180,
+      "id": 90, "x": 1390, "y": 180,
       "userInfo": {"fullName": "", "shortName": "90", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 91, "x": 1400, "y": 200,
+      "id": 91, "x": 1390, "y": 200,
       "userInfo": {"fullName": "Jo Li", "shortName": "Jo", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
@@ -673,77 +673,77 @@
   },
   {
     "seat": {
-      "id": 97, "x": 1500, "y": 80,
+      "id": 97, "x": 1510, "y": 80,
       "userInfo": {"fullName": "Tracy Xiao", "shortName": "Tracy", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 98, "x": 1500, "y": 120,
+      "id": 98, "x": 1510, "y": 120,
       "userInfo": {"fullName": "", "shortName": "98", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 99, "x": 1500, "y": 140,
+      "id": 99, "x": 1510, "y": 140,
       "userInfo": {"fullName": "Jane Liu", "shortName": "Jane", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 100, "x": 1500, "y": 180,
+      "id": 100, "x": 1510, "y": 180,
       "userInfo": {"fullName": "Zoe Cui", "shortName": "Zoe", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 101, "x": 1500, "y": 200,
+      "id": 101, "x": 1510, "y": 200,
       "userInfo": {"fullName": "Carol Zhao", "shortName": "Carol", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 102, "x": 1550, "y": 80,
+      "id": 102, "x": 1570, "y": 80,
       "userInfo": {"fullName": "", "shortName": "102", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 103, "x": 1550, "y": 120,
+      "id": 103, "x": 1570, "y": 120,
       "userInfo": {"fullName": "Sunny Tao", "shortName": "Sunny", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 104, "x": 1550, "y": 140,
+      "id": 104, "x": 1570, "y": 140,
       "userInfo": {"fullName": "Lucy Qu", "shortName": "Lucy", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 105, "x": 1550, "y": 180,
+      "id": 105, "x": 1570, "y": 180,
       "userInfo": {"fullName": "Amy Li", "shortName": "Amy", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 106, "x": 1550, "y": 200,
+      "id": 106, "x": 1570, "y": 200,
       "userInfo": {"fullName": "Linda He", "shortName": "Linda", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 107, "x": 1400, "y": 240,
+      "id": 107, "x": 1390, "y": 240,
       "userInfo": {"fullName": "Harvey Zeng", "shortName": "Harvey", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
@@ -757,161 +757,161 @@
   },
   {
     "seat": {
-      "id": 109, "x": 1500, "y": 240,
+      "id": 109, "x": 1510, "y": 240,
       "userInfo": {"fullName": "Vicy Hu", "shortName": "Vicy", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 110, "x": 1550, "y": 240,
+      "id": 110, "x": 1570, "y": 240,
       "userInfo": {"fullName": "", "shortName": "110", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 111, "x": 1250, "y": 220,
+      "id": 111, "x": 1240, "y": 220,
       "userInfo": {"fullName": "Ben Chen", "shortName": "Ben", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 112, "x": 1250, "y": 240,
+      "id": 112, "x": 1240, "y": 240,
       "userInfo": {"fullName": "", "shortName": "112", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 113, "x": 1250, "y": 260,
+      "id": 113, "x": 1240, "y": 260,
       "userInfo": {"fullName": "Lucas Wu", "shortName": "Lucas", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 114, "x": 1250, "y": 280,
+      "id": 114, "x": 1240, "y": 280,
       "userInfo": {"fullName": "Louis Zhang", "shortName": "Louis", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 115, "x": 1200, "y": 220,
+      "id": 115, "x": 1180, "y": 220,
       "userInfo": {"fullName": "Xiaofeng Huang", "shortName": "Xiaofeng", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 116, "x": 1200, "y": 240,
+      "id": 116, "x": 1180, "y": 240,
       "userInfo": {"fullName": "Gary Chen", "shortName": "Gary", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 117, "x": 1100, "y": 220,
+      "id": 117, "x": 1090, "y": 220,
       "userInfo": {"fullName": "Olivia Zhan", "shortName": "Olivia", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 118, "x": 1100, "y": 240,
+      "id": 118, "x": 1090, "y": 240,
       "userInfo": {"fullName": "Jeanne Huang", "shortName": "Jeanne", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 119, "x": 1100, "y": 260,
+      "id": 119, "x": 1090, "y": 260,
       "userInfo": {"fullName": "Jane Chen", "shortName": "Jane", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 120, "x": 1100, "y": 280,
+      "id": 120, "x": 1090, "y": 280,
       "userInfo": {"fullName": "Wind Wang", "shortName": "Wind", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 121, "x": 1400, "y": 280,
+      "id": 121, "x": 1390, "y": 280,
       "userInfo": {"fullName": "", "shortName": "121", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 122, "x": 1400, "y": 300,
+      "id": 122, "x": 1390, "y": 300,
       "userInfo": {"fullName": "", "shortName": "122", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 123, "x": 1400, "y": 320,
+      "id": 123, "x": 1390, "y": 320,
       "userInfo": {"fullName": "Crystal Zhou", "shortName": "Crystal", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 124, "x": 1400, "y": 340,
+      "id": 124, "x": 1390, "y": 340,
       "userInfo": {"fullName": "Qiulin Kuang", "shortName": "Qiulin", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 125, "x": 1400, "y": 360,
+      "id": 125, "x": 1390, "y": 360,
       "userInfo": {"fullName": "Ring Huang", "shortName": "Ring", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 126, "x": 1400, "y": 380,
+      "id": 126, "x": 1390, "y": 380,
       "userInfo": {"fullName": "Marina Zhuo", "shortName": "Marina", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 127, "x": 1350, "y": 320,
+      "id": 127, "x": 1330, "y": 320,
       "userInfo": {"fullName": "Alice Zhang", "shortName": "Alice", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 128, "x": 1350, "y": 340,
+      "id": 128, "x": 1330, "y": 340,
       "userInfo": {"fullName": "", "shortName": "128", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 129, "x": 1350, "y": 360,
+      "id": 129, "x": 1330, "y": 360,
       "userInfo": {"fullName": "Le Sun", "shortName": "Le", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 130, "x": 1350, "y": 380,
+      "id": 130, "x": 1330, "y": 380,
       "userInfo": {"fullName": "Selina Liu", "shortName": "Selina", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 131, "x": 1400, "y": 560,
+      "id": 131, "x": 1390, "y": 560,
       "userInfo": {"fullName": "Simon Huang", "shortName": "Simon", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
@@ -925,14 +925,14 @@
   },
   {
     "seat": {
-      "id": 133, "x": 1500, "y": 560,
+      "id": 133, "x": 1510, "y": 560,
       "userInfo": {"fullName": "Lucy Lu", "shortName": "Lucy", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 134, "x": 1400, "y": 600,
+      "id": 134, "x": 1390, "y": 600,
       "userInfo": {"fullName": "Haig Hu", "shortName": "Haig", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
@@ -946,14 +946,14 @@
   },
   {
     "seat": {
-      "id": 136, "x": 1500, "y": 600,
+      "id": 136, "x": 1510, "y": 600,
       "userInfo": {"fullName": "", "shortName": "136", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 137, "x": 1400, "y": 620,
+      "id": 137, "x": 1390, "y": 620,
       "userInfo": {"fullName": "Lancer Fang", "shortName": "Lancer", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
@@ -967,14 +967,14 @@
   },
   {
     "seat": {
-      "id": 139, "x": 1500, "y": 620,
+      "id": 139, "x": 1510, "y": 620,
       "userInfo": {"fullName": "", "shortName": "139", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 140, "x": 1400, "y": 660,
+      "id": 140, "x": 1390, "y": 660,
       "userInfo": {"fullName": "", "shortName": "140", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
@@ -988,14 +988,14 @@
   },
   {
     "seat": {
-      "id": 142, "x": 1500, "y": 660,
+      "id": 142, "x": 1510, "y": 660,
       "userInfo": {"fullName": "Scott Li", "shortName": "Scott", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 143, "x": 1400, "y": 680,
+      "id": 143, "x": 1390, "y": 680,
       "userInfo": {"fullName": "Hongtai Wang", "shortName": "Hongtai", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
@@ -1009,14 +1009,14 @@
   },
   {
     "seat": {
-      "id": 145, "x": 1500, "y": 680,
+      "id": 145, "x": 1510, "y": 680,
       "userInfo": {"fullName": "Claire Wang", "shortName": "Claire", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 146, "x": 1400, "y": 720,
+      "id": 146, "x": 1390, "y": 720,
       "userInfo": {"fullName": "Cherry Wang", "shortName": "Cherry", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
@@ -1030,14 +1030,14 @@
   },
   {
     "seat": {
-      "id": 148, "x": 1500, "y": 720,
+      "id": 148, "x": 1510, "y": 720,
       "userInfo": {"fullName": "Fish Guo", "shortName": "Fish", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 149, "x": 1400, "y": 740,
+      "id": 149, "x": 1390, "y": 740,
       "userInfo": {"fullName": "Michelle Zhang", "shortName": "Michelle", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
@@ -1051,14 +1051,14 @@
   },
   {
     "seat": {
-      "id": 151, "x": 1500, "y": 740,
+      "id": 151, "x": 1510, "y": 740,
       "userInfo": {"fullName": "", "shortName": "151", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 152, "x": 1400, "y": 780,
+      "id": 152, "x": 1390, "y": 780,
       "userInfo": {"fullName": "Sophia Wei", "shortName": "Sophia", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
@@ -1072,63 +1072,63 @@
   },
   {
     "seat": {
-      "id": 154, "x": 1500, "y": 780,
+      "id": 154, "x": 1510, "y": 780,
       "userInfo": {"fullName": "Vineela Sharma", "shortName": "Vineela", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 155, "x": 1550, "y": 560,
+      "id": 155, "x": 1570, "y": 560,
       "userInfo": {"fullName": "", "shortName": "155", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 156, "x": 1550, "y": 600,
+      "id": 156, "x": 1570, "y": 600,
       "userInfo": {"fullName": "Roger Lin", "shortName": "Roger", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 157, "x": 1550, "y": 620,
+      "id": 157, "x": 1570, "y": 620,
       "userInfo": {"fullName": "Leo Li", "shortName": "Leo", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 158, "x": 1550, "y": 660,
+      "id": 158, "x": 1570, "y": 660,
       "userInfo": {"fullName": "Bruce Lan", "shortName": "Bruce", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 159, "x": 1550, "y": 680,
+      "id": 159, "x": 1570, "y": 680,
       "userInfo": {"fullName": "", "shortName": "159", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 160, "x": 1550, "y": 720,
+      "id": 160, "x": 1570, "y": 720,
       "userInfo": {"fullName": "Alec Chen", "shortName": "Alec", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 161, "x": 1550, "y": 740,
+      "id": 161, "x": 1570, "y": 740,
       "userInfo": {"fullName": "Echo Huang", "shortName": "Echo", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 162, "x": 1550, "y": 780,
+      "id": 162, "x": 1570, "y": 780,
       "userInfo": {"fullName": "Rock Zhu", "shortName": "Rock", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
