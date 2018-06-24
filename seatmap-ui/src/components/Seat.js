@@ -28,13 +28,23 @@ class Seat extends React.Component {
   }
 
   render() {
-    let seat_id = `seat_${this.props.id}`;
-    let seat_rect_id = `seat_rect_${this.props.id}`;
-    let seat_text_id = `seat_text_${this.props.id}`;
-    let skills = 'Skills:\t';
+    let seat_id = `seat_${this.props.id}`,
+      seat_rect_id = `seat_rect_${this.props.id}`,
+      seat_text_id = `seat_text_${this.props.id}`;
+
+    // setup font size
+    let textLength = 0, lengthAdjust = 'spacing';
+    if(this.state.userInfo.shortName.length > 7) {
+      textLength = 55;
+      lengthAdjust = 'spacingAndGlyphs';
+    }
+
+    // setup seat title
+    let skills = 'Skills:\t', title = null;
     this.state.userInfo.skills.forEach(element => {
       skills = skills + element + ", ";
     });
+
     const seat_title = "Name:\t" + this.state.userInfo.fullName + '\n' +
       'Team:\t' + this.state.userInfo.team + '\n' +
       'Title:\t' + this.state.userInfo.title + '\n' +
@@ -42,7 +52,6 @@ class Seat extends React.Component {
       'Phone:\t' + this.state.userInfo.phone + '\n' +
       skills.substring(0, skills.length - 2);
 
-    let title = null;
     if (this.state.isOccupied) {
       title = <title>{seat_title}</title>;
     }
@@ -51,7 +60,14 @@ class Seat extends React.Component {
       <g id={seat_id}>
         {title}
         <rect className="Seat_rect" id={seat_rect_id} width={this.state.width} height={this.state.height} x={this.state.x} y={this.state.y}/>
-        <text className="Seat_text" id={seat_text_id} x={this.state.userInfoCoordinate.x} y={this.state.userInfoCoordinate.y}>{this.state.userInfo.shortName}</text>
+        <text
+          className="Seat_text"
+          id={seat_text_id}
+          x={this.state.userInfoCoordinate.x}
+          y={this.state.userInfoCoordinate.y}
+          textLength={textLength}
+          lengthAdjust={lengthAdjust}
+        >{this.state.userInfo.shortName}</text>
       </g>
     )
   }
