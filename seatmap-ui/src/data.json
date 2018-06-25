@@ -1,1135 +1,1135 @@
 [
   {
     "seat": {
-      "id": 1, "x": 130, "y": 80,
+      "id": 1, "x": 150, "y": 100,
       "userInfo": {"fullName": "Carmer Jin (金肖)", "shortName": "Carmer", "team": "Everest Deprecation", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 2, "x": 70, "y": 80,
+      "id": 2, "x": 100, "y": 100,
       "userInfo": {"fullName": "Ken Zhuo (卓家健)", "shortName": "Ken", "team": "Quality Engineering", "title": "", "email": "", "phone": "", "skills": ["Java", "Oracle"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 3, "x": 130, "y": 105,
-      "userInfo": {"fullName": "Ryan Deng", "shortName": "Ryan", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 3, "x": 150, "y": 120,
+      "userInfo": {"fullName": "Ryan Deng (邓槐安)", "shortName": "Ryan", "team": "Everest Deprecation", "title": "", "email": "", "phone": "", "skills": ["Front-End"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 4, "x": 70, "y": 105,
-      "userInfo": {"fullName": "Sean Chen", "shortName": "Sean", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 4, "x": 100, "y": 120,
+      "userInfo": {"fullName": "Sean Chen (陈世鸿)", "shortName": "Sean", "team": "Quality Engineering", "title": "", "email": "", "phone": "", "skills": ["Java", "ruby"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 5, "x": 130, "y": 145,
-      "userInfo": {"fullName": "Jenny Peng", "shortName": "Jenny", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 5, "x": 150, "y": 160,
+      "userInfo": {"fullName": "Jenny Peng (彭娟)", "shortName": "Jenny", "team": "Quality Engineering", "title": "", "email": "", "phone": "", "skills": ["Test", "Ruby", "Scala", "html", "javascript"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 6, "x": 70, "y": 145,
+      "id": 6, "x": 100, "y": 160,
       "userInfo": {"fullName": "", "shortName": "6", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 7, "x": 130, "y": 170,
-      "userInfo": {"fullName": "Paula Li", "shortName": "Paula", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 7, "x": 150, "y": 180,
+      "userInfo": {"fullName": "Paula Li (李枫)", "shortName": "Paula", "team": "Quality Engineering", "title": "", "email": "", "phone": "", "skills": ["Test", "Ruby", "Scala", "html", "javascript"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 8, "x": 70, "y": 170,
-      "userInfo": {"fullName": "Michael Xu", "shortName": "Michael", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 8, "x": 100, "y": 180,
+      "userInfo": {"fullName": "Michael Xu (徐尧罡)", "shortName": "Michael", "team": "Quality Engineering", "title": "", "email": "", "phone": "", "skills": ["Test", "Ruby", "Scala", "DB"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 9, "x": 130, "y": 210,
+      "id": 9, "x": 150, "y": 220,
       "userInfo": {"fullName": "", "shortName": "9", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 10, "x": 70, "y": 210,
+      "id": 10, "x": 100, "y": 220,
       "userInfo": {"fullName": "", "shortName": "10", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 11, "x": 130, "y": 235,
-      "userInfo": {"fullName": "NURUL FITRI", "shortName": "NURUL", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 11, "x": 150, "y": 240,
+      "userInfo": {"fullName": "TUAN NURUL FITRI BINTI TUAN AZMI", "shortName": "NURUL", "team": "Quality Engineering", "title": "", "email": "", "phone": "", "skills": ["Test", "Ruby", "Scala"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 12, "x": 70, "y": 235,
-      "userInfo": {"fullName": "Sophya Ma", "shortName": "Sophya", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 12, "x": 100, "y": 240,
+      "userInfo": {"fullName": "Sophya Ma (马玉萍)", "shortName": "Sophya", "team": "Quality Engineering", "title": "", "email": "", "phone": "", "skills": ["Test", "Ruby", "Scala"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 13, "x": 70, "y": 275,
-      "userInfo": {"fullName": "Lily Zou", "shortName": "Lily", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 13, "x": 100, "y": 280,
+      "userInfo": {"fullName": "Lily Zou (邹礼礼)", "shortName": "Lily", "team": "Quality Engineering", "title": "", "email": "", "phone": "", "skills": ["Test"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 14, "x": 280, "y": 200,
-      "userInfo": {"fullName": "Edwin Zhou", "shortName": "Edwin", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 14, "x": 300, "y": 220,
+      "userInfo": {"fullName": "Edwin Zhou (周煌)", "shortName": "Edwin", "team": "Everest Deprecation", "title": "", "email": "", "phone": "", "skills": ["Front-End"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 15, "x": 220, "y": 200,
-      "userInfo": {"fullName": "Andy Peng", "shortName": "Andy", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 15, "x": 250, "y": 220,
+      "userInfo": {"fullName": "Andy Peng (彭松)", "shortName": "Andy", "team": "Quality Engineering", "title": "", "email": "", "phone": "", "skills": ["Test", "Ruby"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 16, "x": 280, "y": 225,
-      "userInfo": {"fullName": "Wheeler Wang", "shortName": "Wheeler", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 16, "x": 300, "y": 240,
+      "userInfo": {"fullName": "Wheeler Wang (王维林)", "shortName": "Wheeler", "team": "PE", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 17, "x": 220, "y": 225,
-      "userInfo": {"fullName": "Alice Chen", "shortName": "Alice", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 17, "x": 250, "y": 240,
+      "userInfo": {"fullName": "Alice Chen (陈蓉)", "shortName": "Alice", "team": "Quality Engineering", "title": "", "email": "", "phone": "", "skills": ["Test", "Ruby", "SQL"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 18, "x": 280, "y": 250,
-      "userInfo": {"fullName": "Winnie Xia", "shortName": "Winnie", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 18, "x": 300, "y": 260,
+      "userInfo": {"fullName": "Winnie Xia (夏娟)", "shortName": "Winnie", "team": "Quality Engineering", "title": "", "email": "", "phone": "", "skills": ["Test", "Ruby", "Java", "SQL"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 19, "x": 220, "y": 250,
-      "userInfo": {"fullName": "Alan Zhong", "shortName": "Alan", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 19, "x": 250, "y": 260,
+      "userInfo": {"fullName": "Alan Zhong (钟万生)", "shortName": "Alan", "team": "Quality Engineering", "title": "", "email": "", "phone": "", "skills": ["Test", "Ruby", "Cucumber"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 20, "x": 280, "y": 275,
-      "userInfo": {"fullName": "Even Liu", "shortName": "Even", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 20, "x": 300, "y": 280,
+      "userInfo": {"fullName": "Even Liu (刘桂生)", "shortName": "Even", "team": "Quality Engineering", "title": "", "email": "", "phone": "", "skills": ["Test", "Ruby"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 21, "x": 220, "y": 275,
-      "userInfo": {"fullName": "Yi Liao", "shortName": "Yi", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 21, "x": 250, "y": 280,
+      "userInfo": {"fullName": "Alfa Liao (廖义)", "shortName": "Alfa", "team": "Quality Engineering", "title": "", "email": "", "phone": "", "skills": ["Test", "Ruby"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 22, "x": 280, "y": 80,
-      "userInfo": {"fullName": "Merge Mai", "shortName": "Merge", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 22, "x": 300, "y": 100,
+      "userInfo": {"fullName": "Merge Mai (麦延春)", "shortName": "Merge", "team": "Everest Deprecation", "title": "", "email": "", "phone": "", "skills": ["Test", ".Net", "DB", "SQL", "C#"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 23, "x": 220, "y": 80,
-      "userInfo": {"fullName": "Alice Zhu", "shortName": "Alice", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 23, "x": 250, "y": 100,
+      "userInfo": {"fullName": "Alice Zhu (朱敏)", "shortName": "Alice", "team": "Quality Engineering", "title": "", "email": "", "phone": "", "skills": ["Ruby"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 24, "x": 280, "y": 105,
-      "userInfo": {"fullName": "Lerry Tao", "shortName": "Lerry", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 24, "x": 300, "y": 120,
+      "userInfo": {"fullName": "Lerry Tao (陶英)", "shortName": "Lerry", "team": "Everest Deprecation", "title": "", "email": "", "phone": "", "skills": ["Test", "SQL", "C#"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 25, "x": 220, "y": 105,
-      "userInfo": {"fullName": "Sam Liu", "shortName": "Sam", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 25, "x": 250, "y": 120,
+      "userInfo": {"fullName": "Sam Liu (刘树禹)", "shortName": "Sam", "team": "Everest Deprecation", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 26, "x": 220, "y": 130,
-      "userInfo": {"fullName": "Joyce Xiong", "shortName": "Joyce", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 26, "x": 250, "y": 140,
+      "userInfo": {"fullName": "Joyce Xiong (熊娇娇)", "shortName": "Joyce", "team": "Quality Engineering", "title": "", "email": "", "phone": "", "skills": ["Test", "SQL"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 27, "x": 280, "y": 130,
-      "userInfo": {"fullName": "Stephanie Hu", "shortName": "Stephanie", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 27, "x": 300, "y": 140,
+      "userInfo": {"fullName": "Stephanie Hu (胡江琳)", "shortName": "Stephanie", "team": "Everest Deprecation", "title": "", "email": "", "phone": "", "skills": ["Test", "SQL"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 28, "x": 280, "y": 155,
-      "userInfo": {"fullName": "Carry Luo", "shortName": "Carry", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 28, "x": 300, "y": 160,
+      "userInfo": {"fullName": "Carry Luo (罗华)", "shortName": "Carry", "team": "Quality Engineering", "title": "", "email": "", "phone": "", "skills": ["Test", "Ruby", "Scala", "DB", "SQL", "C#"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 29, "x": 220, "y": 155,
-      "userInfo": {"fullName": "Firnny Sun", "shortName": "Firnny", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 29, "x": 250, "y": 160,
+      "userInfo": {"fullName": "Firnny Sun (孙敏)", "shortName": "Firnny", "team": "Quality Engineering", "title": "", "email": "", "phone": "", "skills": ["Automation testing"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 30, "x": 430, "y": 80,
+      "id": 30, "x": 450, "y": 100,
       "userInfo": {"fullName": "", "shortName": "30", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 31, "x": 370, "y": 80,
-      "userInfo": {"fullName": "Popo Liang", "shortName": "Popo", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 31, "x": 400, "y": 100,
+      "userInfo": {"fullName": "Popo Liang (梁嘉敏)", "shortName": "Popo", "team": "PE", "title": "", "email": "", "phone": "", "skills": ["Test", "C#"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 32, "x": 430, "y": 105,
+      "id": 32, "x": 450, "y": 120,
       "userInfo": {"fullName": "", "shortName": "32", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 33, "x": 370, "y": 105,
-      "userInfo": {"fullName": "Queena Xiang", "shortName": "Queena", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 33, "x": 400, "y": 120,
+      "userInfo": {"fullName": "Queena Xiang (向秋瑾)", "shortName": "Queena", "team": "PE", "title": "", "email": "", "phone": "", "skills": ["Test", "Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 34, "x": 370, "y": 130,
-      "userInfo": {"fullName": "Sonia Feng", "shortName": "Sonia", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 34, "x": 400, "y": 140,
+      "userInfo": {"fullName": "Sonia Feng (冯淑卿)", "shortName": "Sonia", "team": "PE", "title": "", "email": "", "phone": "", "skills": ["Test", "Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 35, "x": 430, "y": 130,
-      "userInfo": {"fullName": "Tom Li", "shortName": "Tom", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 35, "x": 450, "y": 140,
+      "userInfo": {"fullName": "Tom Li (李煜华)", "shortName": "Tom", "team": "Everest Deprecation", "title": "", "email": "", "phone": "", "skills": ["Test", "C#"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 36, "x": 430, "y": 155,
-      "userInfo": {"fullName": "Bernice Zhao", "shortName": "Bernice", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 36, "x": 450, "y": 160,
+      "userInfo": {"fullName": "Bernice Zhao (赵小凤)", "shortName": "Bernice", "team": "PE", "title": "", "email": "", "phone": "", "skills": ["App Test"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 37, "x": 370, "y": 155,
-      "userInfo": {"fullName": "Lily Yuan", "shortName": "Lily", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 37, "x": 400, "y": 160,
+      "userInfo": {"fullName": "Lily Yuan (原丽娟)", "shortName": "Lily", "team": "PE", "title": "", "email": "", "phone": "", "skills": ["Test", "Java", "JavaScript"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 38, "x": 430, "y": 200,
-      "userInfo": {"fullName": "Smith Zhang", "shortName": "Smith", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 38, "x": 450, "y": 220,
+      "userInfo": {"fullName": "Smith Zhang (张廷宇)", "shortName": "Smith", "team": "PE", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 39, "x": 370, "y": 200,
-      "userInfo": {"fullName": "Boot Pan", "shortName": "Boot", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 39, "x": 400, "y": 220,
+      "userInfo": {"fullName": "Boot Pan (潘尚砖)", "shortName": "Boot", "team": "Everest Deprecation", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 40, "x": 430, "y": 225,
-      "userInfo": {"fullName": "Echo Long", "shortName": "Echo", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 40, "x": 450, "y": 240,
+      "userInfo": {"fullName": "Echo Long (龙爱华)", "shortName": "Echo", "team": "PE", "title": "", "email": "", "phone": "", "skills": ["Test", "C#", "Qunit", "Cucumber"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 41, "x": 370, "y": 225,
+      "id": 41, "x": 400, "y": 240,
       "userInfo": {"fullName": "", "shortName": "41", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 42, "x": 430, "y": 250,
+      "id": 42, "x": 450, "y": 260,
       "userInfo": {"fullName": "", "shortName": "42", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 43, "x": 370, "y": 250,
-      "userInfo": {"fullName": "Catherine Huang", "shortName": "Catherine", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 43, "x": 400, "y": 260,
+      "userInfo": {"fullName": "Catherine Huang (黄漫虹)", "shortName": "Catherine", "team": "PE", "title": "", "email": "", "phone": "", "skills": ["Java", "UI", "DB", "PHP", "J2EE"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 44, "x": 430, "y": 275,
-      "userInfo": {"fullName": "Kevin Sheng", "shortName": "Kevin", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 44, "x": 450, "y": 280,
+      "userInfo": {"fullName": "Kevin Sheng (盛子凡)", "shortName": "Kevin", "team": "PE", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 45, "x": 370, "y": 275,
-      "userInfo": {"fullName": "Angie Wang", "shortName": "Angie", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 45, "x": 400, "y": 280,
+      "userInfo": {"fullName": "Angie Wang (王信清)", "shortName": "Angie", "team": "PE", "title": "", "email": "", "phone": "", "skills": ["Java", "J2EE", "JS", "MongoDB", "Redis", "HTML"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 46, "x": 550, "y": 275,
-      "userInfo": {"fullName": "Huiming Chen", "shortName": "Huiming", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 46, "x": 550, "y": 280,
+      "userInfo": {"fullName": "Neil Chen (陈惠明)", "shortName": "Neil", "team": "PE", "title": "", "email": "", "phone": "", "skills": ["C#", "Java", "Ruby", "Javascript", "ASP"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 47, "x": 490, "y": 275,
+      "id": 47, "x": 500, "y": 280,
       "userInfo": {"fullName": "", "shortName": "47", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 48, "x": 520, "y": 200,
-      "userInfo": {"fullName": "Sam Chen", "shortName": "Sam", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 48, "x": 550, "y": 220,
+      "userInfo": {"fullName": "Sam Chen (陈铭迪)", "shortName": "Sam", "team": "PE", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 49, "x": 520, "y": 225,
-      "userInfo": {"fullName": "Lucien Chen", "shortName": "Lucien", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 49, "x": 550, "y": 240,
+      "userInfo": {"fullName": "Lucien Chen (陈熹)", "shortName": "Lucien", "team": "PE", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 50, "x": 670, "y": 60,
+      "id": 50, "x": 700, "y": 80,
       "userInfo": {"fullName": "", "shortName": "50", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 51, "x": 670, "y": 85,
+      "id": 51, "x": 700, "y": 100,
       "userInfo": {"fullName": "", "shortName": "51", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 52, "x": 670, "y": 110,
-      "userInfo": {"fullName": "Victor Yi", "shortName": "Victor", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 52, "x": 700, "y": 120,
+      "userInfo": {"fullName": "Victor Yi (易俊)", "shortName": "Victor", "team": "LIS V2", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 53, "x": 670, "y": 135,
-      "userInfo": {"fullName": "Julian Zhu", "shortName": "Julian", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 53, "x": 700, "y": 140,
+      "userInfo": {"fullName": "Julian Zhu (朱浩)", "shortName": "Julian", "team": "LIS V2", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 54, "x": 670, "y": 160,
-      "userInfo": {"fullName": "Joyce Gao", "shortName": "Joyce", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 54, "x": 700, "y": 160,
+      "userInfo": {"fullName": "Joyce Gao (高娟)", "shortName": "Joyce", "team": "LIS V2", "title": "", "email": "", "phone": "", "skills": ["Test", "Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 55, "x": 760, "y": 85,
-      "userInfo": {"fullName": "Darren Zhou", "shortName": "Darren", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 55, "x": 800, "y": 100,
+      "userInfo": {"fullName": "Darren Zhou (周小江)", "shortName": "Darren", "team": "LIS V2", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 56, "x": 760, "y": 110,
-      "userInfo": {"fullName": "Terry Tao", "shortName": "Terry", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 56, "x": 800, "y": 120,
+      "userInfo": {"fullName": "Terry Tao (陶锐)", "shortName": "Terry", "team": "LIS V2", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 57, "x": 760, "y": 135,
-      "userInfo": {"fullName": "Haven Lin", "shortName": "Haven", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 57, "x": 800, "y": 140,
+      "userInfo": {"fullName": "Haven Lin (林啟桦)", "shortName": "Haven", "team": "LIS V2", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 58, "x": 760, "y": 160,
+      "id": 58, "x": 800, "y": 160,
       "userInfo": {"fullName": "", "shortName": "58", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 59, "x": 820, "y": 85,
-      "userInfo": {"fullName": "Freya Xie", "shortName": "Freya", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 59, "x": 850, "y": 100,
+      "userInfo": {"fullName": "Freya Xie (谢先燕)", "shortName": "Freya", "team": "LIS MIPS", "title": "", "email": "", "phone": "", "skills": ["Test", "C#", "SQL"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 60, "x": 820, "y": 110,
-      "userInfo": {"fullName": "Jack Wu", "shortName": "Jack", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 60, "x": 850, "y": 120,
+      "userInfo": {"fullName": "Jack Wu (吴凯)", "shortName": "Jack", "team": "LIS MIPS", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 61, "x": 820, "y": 135,
-      "userInfo": {"fullName": "Saffi Yang", "shortName": "Saffi", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 61, "x": 850, "y": 140,
+      "userInfo": {"fullName": "Saffi Yang (杨华丽)", "shortName": "Saffi", "team": "LIS MIPS", "title": "", "email": "", "phone": "", "skills": ["C#", "Java", "SQL"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 62, "x": 820, "y": 160,
-      "userInfo": {"fullName": "Allen Su", "shortName": "Allen", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 62, "x": 850, "y": 160,
+      "userInfo": {"fullName": "Allen Su (苏锦行)", "shortName": "Allen", "team": "EPC Review", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 63, "x": 850, "y": 60,
+      "id": 63, "x": 900, "y": 80,
       "userInfo": {"fullName": "", "shortName": "63", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 64, "x": 910, "y": 60,
-      "userInfo": {"fullName": "Richard Xu", "shortName": "Richard", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 64, "x": 950, "y": 80,
+      "userInfo": {"fullName": "Richard Xu (徐炽明)", "shortName": "Richard", "team": "LIS BNOS", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 65, "x": 910, "y": 85,
-      "userInfo": {"fullName": "Graham Ren", "shortName": "Graham", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 65, "x": 950, "y": 100,
+      "userInfo": {"fullName": "Graham Ren (任健鸣)", "shortName": "Graham", "team": "LIS BNOS", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 66, "x": 910, "y": 110,
+      "id": 66, "x": 950, "y": 120,
       "userInfo": {"fullName": "", "shortName": "66", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 67, "x": 910, "y": 135,
-      "userInfo": {"fullName": "Sven Zhang", "shortName": "Sven", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 67, "x": 950, "y": 140,
+      "userInfo": {"fullName": "Sven Zhang (张冲)", "shortName": "Sven", "team": "EPC Review", "title": "", "email": "", "phone": "", "skills": ["Java", "SQL"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 68, "x": 910, "y": 160,
-      "userInfo": {"fullName": "Yao Guo", "shortName": "Yao", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 68, "x": 950, "y": 160,
+      "userInfo": {"fullName": "Yao Guo (郭瑶)", "shortName": "Yao", "team": "EPC Review", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 69, "x": 970, "y": 60,
-      "userInfo": {"fullName": "Alex Ren", "shortName": "Alex", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 69, "x": 1000, "y": 80,
+      "userInfo": {"fullName": "Alex Ren (任炳韬)", "shortName": "Alex", "team": "LIS BNOS", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 70, "x": 1030, "y": 60,
-      "userInfo": {"fullName": "Walker Zhang", "shortName": "Walker", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 70, "x": 1050, "y": 80,
+      "userInfo": {"fullName": "Walker Zhang (张帆)", "shortName": "Walker", "team": "LIS BNOS", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 71, "x": 1030, "y": 85,
-      "userInfo": {"fullName": "Jane Deng", "shortName": "Jane", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 71, "x": 1050, "y": 100,
+      "userInfo": {"fullName": "Jane Deng (邓慧君)", "shortName": "Jane", "team": "LIS BNOS", "title": "", "email": "", "phone": "", "skills": ["Test"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 72, "x": 1030, "y": 110,
-      "userInfo": {"fullName": "Nicole Fu", "shortName": "Nicole", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 72, "x": 1050, "y": 120,
+      "userInfo": {"fullName": "Nicole Fu (付晓燕)", "shortName": "Nicole", "team": "EPC Review", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 73, "x": 1030, "y": 135,
-      "userInfo": {"fullName": "Leo Tang", "shortName": "Leo", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 73, "x": 1050, "y": 140,
+      "userInfo": {"fullName": "Leo Tang (唐辉宇)", "shortName": "Leo", "team": "EPC Review", "title": "", "email": "", "phone": "", "skills": ["JavaScript", "HTML"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 74, "x": 1090, "y": 60,
-      "userInfo": {"fullName": "Helen Chen", "shortName": "Helen", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 74, "x": 1100, "y": 80,
+      "userInfo": {"fullName": "Helen Chen (陈晓荣)", "shortName": "Helen", "team": "EPC Content", "title": "", "email": "", "phone": "", "skills": ["UI"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 75, "x": 1090, "y": 85,
+      "id": 75, "x": 1100, "y": 100,
       "userInfo": {"fullName": "", "shortName": "75", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 76, "x": 1090, "y": 110,
-      "userInfo": {"fullName": "Helen Fu", "shortName": "Helen", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 76, "x": 1100, "y": 120,
+      "userInfo": {"fullName": "Helen Fu (付胜玲)", "shortName": "Helen", "team": "EPC Content", "title": "", "email": "", "phone": "", "skills": ["Java", "SDET"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 77, "x": 1090, "y": 135,
-      "userInfo": {"fullName": "Manson Peng", "shortName": "Manson", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 77, "x": 1100, "y": 140,
+      "userInfo": {"fullName": "Manson Peng (彭存超)", "shortName": "Manson", "team": "EPC Content", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 78, "x": 1180, "y": 60,
-      "userInfo": {"fullName": "Daisy Peng", "shortName": "Daisy", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 78, "x": 1200, "y": 80,
+      "userInfo": {"fullName": "Daisy Peng (彭艳霞)", "shortName": "Daisy", "team": "", "title": "", "email": "", "phone": "", "skills": ["Test", "SQL"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 79, "x": 1180, "y": 85,
-      "userInfo": {"fullName": "Aaron Jing", "shortName": "Aaron", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 79, "x": 1200, "y": 100,
+      "userInfo": {"fullName": "Aaron Jing (敬远衡)", "shortName": "Aaron", "team": "EPC Content", "title": "", "email": "", "phone": "", "skills": ["Front-End"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 80, "x": 1180, "y": 110,
-      "userInfo": {"fullName": "Ken Huang", "shortName": "Ken", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 80, "x": 1200, "y": 120,
+      "userInfo": {"fullName": "Ken Huang (黄旭亮)", "shortName": "Ken", "team": "EPC Content", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 81, "x": 1180, "y": 135,
+      "id": 81, "x": 1200, "y": 140,
       "userInfo": {"fullName": "", "shortName": "81", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 82, "x": 1240, "y": 60,
+      "id": 82, "x": 1250, "y": 80,
       "userInfo": {"fullName": "", "shortName": "82", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 83, "x": 1240, "y": 85,
+      "id": 83, "x": 1250, "y": 100,
       "userInfo": {"fullName": "", "shortName": "83", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 84, "x": 1240, "y": 110,
+      "id": 84, "x": 1250, "y": 120,
       "userInfo": {"fullName": "", "shortName": "84", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 85, "x": 1240, "y": 135,
-      "userInfo": {"fullName": "Simple Zhang", "shortName": "Simple", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 85, "x": 1250, "y": 140,
+      "userInfo": {"fullName": "Simple Zhang (张泽彦)", "shortName": "Simple", "team": "EPC Content", "title": "", "email": "", "phone": "", "skills": ["Android"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 86, "x": 1300, "y": 60,
+      "id": 86, "x": 1300, "y": 80,
       "userInfo": {"fullName": "", "shortName": "86", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 87, "x": 1390, "y": 60,
-      "userInfo": {"fullName": "Beck Jia", "shortName": "Beck", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 87, "x": 1400, "y": 80,
+      "userInfo": {"fullName": "Beck Jia (贾亚伟)", "shortName": "Beck", "team": "Performance Testing", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 88, "x": 1390, "y": 100,
-      "userInfo": {"fullName": "Frank Deng", "shortName": "Frank", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 88, "x": 1400, "y": 120,
+      "userInfo": {"fullName": "Frank Deng (邓乐称)", "shortName": "Frank", "team": "Performance Testing", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 89, "x": 1390, "y": 120,
-      "userInfo": {"fullName": "Anny Qin", "shortName": "Anny", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 89, "x": 1400, "y": 140,
+      "userInfo": {"fullName": "Anny Qin (覃宏萍)", "shortName": "Anny", "team": "Hotels.com", "title": "", "email": "", "phone": "", "skills": ["Test", "Java", "SQL"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 90, "x": 1390, "y": 160,
+      "id": 90, "x": 1400, "y": 180,
       "userInfo": {"fullName": "", "shortName": "90", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 91, "x": 1390, "y": 180,
-      "userInfo": {"fullName": "Jo Li", "shortName": "Jo", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 91, "x": 1400, "y": 200,
+      "userInfo": {"fullName": "Jo Li (李薇)", "shortName": "Jo", "team": "GRO", "title": "", "email": "", "phone": "", "skills": ["Java", "UI"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 92, "x": 1450, "y": 60,
-      "userInfo": {"fullName": "Dongwen Peng", "shortName": "Dongwen", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 92, "x": 1450, "y": 80,
+      "userInfo": {"fullName": "Wendy Peng (彭冬文)", "shortName": "Wendy", "team": "Performance Testing", "title": "", "email": "", "phone": "", "skills": ["Loadrunner", "Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 93, "x": 1450, "y": 100,
-      "userInfo": {"fullName": "Mak Tao", "shortName": "Mak", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 93, "x": 1450, "y": 120,
+      "userInfo": {"fullName": "Mak Tao (陶兴文)", "shortName": "Mak", "team": "Performance Testing", "title": "", "email": "", "phone": "", "skills": ["Loadrunner"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 94, "x": 1450, "y": 120,
+      "id": 94, "x": 1450, "y": 140,
       "userInfo": {"fullName": "", "shortName": "94", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 95, "x": 1450, "y": 160,
+      "id": 95, "x": 1450, "y": 180,
       "userInfo": {"fullName": "", "shortName": "95", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 96, "x": 1450, "y": 180,
-      "userInfo": {"fullName": "Roy Jia", "shortName": "Roy", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 96, "x": 1450, "y": 200,
+      "userInfo": {"fullName": "Roy Jia (贾军)", "shortName": "Roy", "team": "GRO", "title": "", "email": "", "phone": "", "skills": ["Java", "UI", "Front-End"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 97, "x": 1510, "y": 60,
-      "userInfo": {"fullName": "Tracy Xiao", "shortName": "Tracy", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 97, "x": 1500, "y": 80,
+      "userInfo": {"fullName": "Tracy Xiao (肖婷)", "shortName": "Tracy", "team": "Performance Testing", "title": "", "email": "", "phone": "", "skills": ["Loadrunner"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 98, "x": 1510, "y": 100,
+      "id": 98, "x": 1500, "y": 120,
       "userInfo": {"fullName": "", "shortName": "98", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 99, "x": 1510, "y": 120,
-      "userInfo": {"fullName": "Jane Liu", "shortName": "Jane", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 99, "x": 1500, "y": 140,
+      "userInfo": {"fullName": "Jane Liu (刘新玲)", "shortName": "Jane", "team": "GRO", "title": "", "email": "", "phone": "", "skills": ["Automation test"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 100, "x": 1510, "y": 160,
-      "userInfo": {"fullName": "Zoe Cui", "shortName": "Zoe", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 100, "x": 1500, "y": 180,
+      "userInfo": {"fullName": "Zoe Cui (崔永芳)", "shortName": "Zoe", "team": "GRO", "title": "", "email": "", "phone": "", "skills": ["Test"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 101, "x": 1510, "y": 180,
-      "userInfo": {"fullName": "Carol Zhao", "shortName": "Carol", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 101, "x": 1500, "y": 200,
+      "userInfo": {"fullName": "Carol Zhao (赵化宇)", "shortName": "Carol", "team": "GRO", "title": "", "email": "", "phone": "", "skills": ["Automation test"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 102, "x": 1570, "y": 60,
+      "id": 102, "x": 1550, "y": 80,
       "userInfo": {"fullName": "", "shortName": "102", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 103, "x": 1570, "y": 100,
-      "userInfo": {"fullName": "Sunny Tao", "shortName": "Sunny", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 103, "x": 1550, "y": 120,
+      "userInfo": {"fullName": "Sunny Tao (陶娟秀)", "shortName": "Sunny", "team": "Performance Testing", "title": "", "email": "", "phone": "", "skills": ["Loadrunner"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 104, "x": 1570, "y": 120,
-      "userInfo": {"fullName": "Lucy Qu", "shortName": "Lucy", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 104, "x": 1550, "y": 140,
+      "userInfo": {"fullName": "Lucy Qu (屈素群)", "shortName": "Lucy", "team": "GRO", "title": "", "email": "", "phone": "", "skills": ["Test"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 105, "x": 1570, "y": 160,
-      "userInfo": {"fullName": "Amy Li", "shortName": "Amy", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 105, "x": 1550, "y": 180,
+      "userInfo": {"fullName": "Amy Li (李文杰)", "shortName": "Amy", "team": "GRO", "title": "", "email": "", "phone": "", "skills": ["Test"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 106, "x": 1570, "y": 180,
-      "userInfo": {"fullName": "Linda He", "shortName": "Linda", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 106, "x": 1550, "y": 200,
+      "userInfo": {"fullName": "Linda He (何茂林)", "shortName": "Linda", "team": "GRO", "title": "", "email": "", "phone": "", "skills": ["Test"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 107, "x": 1390, "y": 220,
-      "userInfo": {"fullName": "Harvey Zeng", "shortName": "Harvey", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 107, "x": 1400, "y": 240,
+      "userInfo": {"fullName": "Harvey Zeng (曾茗辉)", "shortName": "Harvey", "team": "GRO", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 108, "x": 1450, "y": 220,
-      "userInfo": {"fullName": "Tautou Li", "shortName": "Tautou", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 108, "x": 1450, "y": 240,
+      "userInfo": {"fullName": "Tautou Li (李奕霖)", "shortName": "Tautou", "team": "GRO", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 109, "x": 1510, "y": 220,
-      "userInfo": {"fullName": "Vicy Hu", "shortName": "Vicy", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 109, "x": 1500, "y": 240,
+      "userInfo": {"fullName": "Vicy Hu (胡鑫欣)", "shortName": "Vicy", "team": "GRO", "title": "", "email": "", "phone": "", "skills": ["Java", "UI"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 110, "x": 1570, "y": 220,
+      "id": 110, "x": 1550, "y": 240,
       "userInfo": {"fullName": "", "shortName": "110", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 111, "x": 1240, "y": 200,
-      "userInfo": {"fullName": "Ben Chen", "shortName": "Ben", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 111, "x": 1250, "y": 220,
+      "userInfo": {"fullName": "Ben Chen (陈儒锋)", "shortName": "Ben", "team": "Platform", "title": "", "email": "", "phone": "", "skills": ["Java", "Test", "DB", "SQL", "J2EE"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 112, "x": 1240, "y": 225,
+      "id": 112, "x": 1250, "y": 240,
       "userInfo": {"fullName": "", "shortName": "112", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 113, "x": 1240, "y": 250,
-      "userInfo": {"fullName": "Lucas Wu", "shortName": "Lucas", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 113, "x": 1250, "y": 260,
+      "userInfo": {"fullName": "Lucas Wu (吴思捷)", "shortName": "Lucas", "team": "Platform", "title": "", "email": "", "phone": "", "skills": ["Java", "Test", "DB", "SQL", "J2EE"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 114, "x": 1240, "y": 275,
-      "userInfo": {"fullName": "Louis Zhang", "shortName": "Louis", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 114, "x": 1250, "y": 280,
+      "userInfo": {"fullName": "Louis Zhang (张怡)", "shortName": "Louis", "team": "Platform", "title": "", "email": "", "phone": "", "skills": ["Java", "Test", "DB", "SQL", "J2EE", "AWS"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 115, "x": 1180, "y": 200,
-      "userInfo": {"fullName": "Xiaofeng Huang", "shortName": "Xiaofeng", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 115, "x": 1200, "y": 220,
+      "userInfo": {"fullName": "Andy Huang (黄晓锋)", "shortName": "Andy", "team": "LPAS and LIS DB", "title": "", "email": "", "phone": "", "skills": ["DB", "SQL"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 116, "x": 1180, "y": 225,
-      "userInfo": {"fullName": "Gary Chen", "shortName": "Gary", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 116, "x": 1200, "y": 240,
+      "userInfo": {"fullName": "Gary Chen (陈必文)", "shortName": "Gary", "team": "LPAS and LIS DB", "title": "", "email": "", "phone": "", "skills": ["DB", "SQL"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 117, "x": 1090, "y": 200,
-      "userInfo": {"fullName": "Olivia Zhan", "shortName": "Olivia", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 117, "x": 1100, "y": 220,
+      "userInfo": {"fullName": "Olivia Zhan (詹文兰)", "shortName": "Olivia", "team": "FESI", "title": "", "email": "", "phone": "", "skills": ["Python"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 118, "x": 1090, "y": 225,
-      "userInfo": {"fullName": "Jeanne Huang", "shortName": "Jeanne", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 118, "x": 1100, "y": 240,
+      "userInfo": {"fullName": "Jeanne Huang (黄钰岚)", "shortName": "Jeanne", "team": "FESI", "title": "", "email": "", "phone": "", "skills": ["Powershell", "Python"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 119, "x": 1090, "y": 250,
-      "userInfo": {"fullName": "Jane Chen", "shortName": "Jane", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 119, "x": 1100, "y": 260,
+      "userInfo": {"fullName": "Jane Chen (陈帼颖)", "shortName": "Jane", "team": "FESI", "title": "", "email": "", "phone": "", "skills": ["Shell", "Python"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 120, "x": 1090, "y": 275,
-      "userInfo": {"fullName": "Wind Wang", "shortName": "Wind", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 120, "x": 1100, "y": 280,
+      "userInfo": {"fullName": "Wind Wang (王锋)", "shortName": "Wind", "team": "", "title": "", "email": "", "phone": "", "skills": ["DB", "SQL"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 121, "x": 1390, "y": 265,
+      "id": 121, "x": 1400, "y": 280,
       "userInfo": {"fullName": "", "shortName": "121", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 122, "x": 1390, "y": 290,
+      "id": 122, "x": 1400, "y": 300,
       "userInfo": {"fullName": "", "shortName": "122", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 123, "x": 1390, "y": 315,
-      "userInfo": {"fullName": "Crystal Zhou", "shortName": "Crystal", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 123, "x": 1400, "y": 320,
+      "userInfo": {"fullName": "Crystal Zhou (周晓田)", "shortName": "Crystal", "team": "Package and UDP", "title": "", "email": "", "phone": "", "skills": ["Test", "Ruby", "Cucumber"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 124, "x": 1390, "y": 340,
-      "userInfo": {"fullName": "Qiulin Kuang", "shortName": "Qiulin", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 124, "x": 1400, "y": 340,
+      "userInfo": {"fullName": "Qiulin Kuang (旷秋林)", "shortName": "Qiulin", "team": "Package and UDP", "title": "", "email": "", "phone": "", "skills": ["Test", "Ruby", "Cucumber"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 125, "x": 1390, "y": 365,
-      "userInfo": {"fullName": "Ring Huang", "shortName": "Ring", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 125, "x": 1400, "y": 360,
+      "userInfo": {"fullName": "Ring Huang (黄玉环)", "shortName": "Ring", "team": "OP", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 126, "x": 1390, "y": 390,
-      "userInfo": {"fullName": "Marina Zhuo", "shortName": "Marina", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 126, "x": 1400, "y": 380,
+      "userInfo": {"fullName": "Marina Zhuo (卓嘉玲)", "shortName": "Marina", "team": "OP", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 127, "x": 1330, "y": 315,
-      "userInfo": {"fullName": "Alice Zhang", "shortName": "Alice", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 127, "x": 1350, "y": 320,
+      "userInfo": {"fullName": "Alice Zhang (张媛媛)", "shortName": "Alice", "team": "Package and UDP", "title": "", "email": "", "phone": "", "skills": ["Test", "Ruby", "Cucumber", "Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 128, "x": 1330, "y": 340,
+      "id": 128, "x": 1350, "y": 340,
       "userInfo": {"fullName": "", "shortName": "128", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 129, "x": 1330, "y": 365,
-      "userInfo": {"fullName": "Le Sun", "shortName": "Le", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 129, "x": 1350, "y": 360,
+      "userInfo": {"fullName": "Le Sun (孙乐)", "shortName": "Le", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 130, "x": 1330, "y": 390,
-      "userInfo": {"fullName": "Selina Liu", "shortName": "Selina", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 130, "x": 1350, "y": 380,
+      "userInfo": {"fullName": "Selina Liu (刘婷婷)", "shortName": "Selina", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 131, "x": 1390, "y": 560,
-      "userInfo": {"fullName": "Simon Huang", "shortName": "Simon", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 131, "x": 1400, "y": 560,
+      "userInfo": {"fullName": "Simon Huang (黄震)", "shortName": "Simon", "team": "EWS/Dev&Testing_DreamWeaver", "title": "", "email": "", "phone": "", "skills": ["Java", "SQL", "J2EE"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
       "id": 132, "x": 1450, "y": 560,
-      "userInfo": {"fullName": "Ben Feng", "shortName": "Ben", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "userInfo": {"fullName": "Ben Feng (冯炳众)", "shortName": "Ben", "team": "EWS/Dev&Testing_DreamWeaver", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 133, "x": 1510, "y": 560,
-      "userInfo": {"fullName": "Lucy Lu", "shortName": "Lucy", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 133, "x": 1500, "y": 560,
+      "userInfo": {"fullName": "Lucy Lu (陆佩)", "shortName": "Lucy", "team": "EWS/Dev&Testing_DreamWeaver", "title": "", "email": "", "phone": "", "skills": ["Test", "Java", "DB", "SQL"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 134, "x": 1390, "y": 600,
-      "userInfo": {"fullName": "Haig Hu", "shortName": "Haig", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 134, "x": 1400, "y": 600,
+      "userInfo": {"fullName": "Haig Hu (胡光)", "shortName": "Haig", "team": "EWS/Dev&Testing_DreamWeaver", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
       "id": 135, "x": 1450, "y": 600,
-      "userInfo": {"fullName": "Wright Deng", "shortName": "Wright", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "userInfo": {"fullName": "Wright Deng (邓莹)", "shortName": "Wright", "team": "EWS/Dev&Testing_DreamWeaver", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 136, "x": 1510, "y": 600,
+      "id": 136, "x": 1500, "y": 600,
       "userInfo": {"fullName": "", "shortName": "136", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 137, "x": 1390, "y": 625,
-      "userInfo": {"fullName": "Lancer Fang", "shortName": "Lancer", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 137, "x": 1400, "y": 620,
+      "userInfo": {"fullName": "Lancer Fang (方明)", "shortName": "Lancer", "team": "EWS/Dev&Testing_EasternPirates", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 138, "x": 1450, "y": 625,
-      "userInfo": {"fullName": "Sherry Li", "shortName": "Sherry", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 138, "x": 1450, "y": 620,
+      "userInfo": {"fullName": "Sherry Li (李芮芮)", "shortName": "Sherry", "team": "EWS/Dev&Testing_BizOps", "title": "", "email": "", "phone": "", "skills": ["Test", ".Net", "Java", "SQL", "C", "C#", "UI", "J2EE"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 139, "x": 1510, "y": 625,
+      "id": 139, "x": 1500, "y": 620,
       "userInfo": {"fullName": "", "shortName": "139", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 140, "x": 1390, "y": 665,
+      "id": 140, "x": 1400, "y": 660,
       "userInfo": {"fullName": "", "shortName": "140", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 141, "x": 1450, "y": 665,
-      "userInfo": {"fullName": "Steven Guo", "shortName": "Steven", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 141, "x": 1450, "y": 660,
+      "userInfo": {"fullName": "Steven Guo (郭彬)", "shortName": "Steven", "team": "EWS/Dev&Testing_EasternPirates", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 142, "x": 1510, "y": 665,
-      "userInfo": {"fullName": "Scott Li", "shortName": "Scott", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 142, "x": 1500, "y": 660,
+      "userInfo": {"fullName": "Scott Li (李华盛)", "shortName": "Scott", "team": "EWS/Dev&Testing_EasternPirates", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 143, "x": 1390, "y": 690,
-      "userInfo": {"fullName": "Hongtai Wang", "shortName": "Hongtai", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 143, "x": 1400, "y": 680,
+      "userInfo": {"fullName": "Hunter Wang (王红太)", "shortName": "Hunter", "team": "EWS/Dev&Testing_Autobots", "title": "", "email": "", "phone": "", "skills": ["Java", "SQL"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 144, "x": 1450, "y": 690,
-      "userInfo": {"fullName": "Linker Li", "shortName": "Linker", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 144, "x": 1450, "y": 680,
+      "userInfo": {"fullName": "Linker Li (李开)", "shortName": "Linker", "team": "EWS/Dev&Testing_Autobots", "title": "", "email": "", "phone": "", "skills": ["Java", "J2EE", "C", "C++"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 145, "x": 1510, "y": 690,
-      "userInfo": {"fullName": "Claire Wang", "shortName": "Claire", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 145, "x": 1500, "y": 680,
+      "userInfo": {"fullName": "Claire Wang (王纯)", "shortName": "Claire", "team": "EWS/Dev&Testing_Autobots", "title": "", "email": "", "phone": "", "skills": ["Test", "Java", "UI"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 146, "x": 1390, "y": 730,
-      "userInfo": {"fullName": "Cherry Wang", "shortName": "Cherry", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 146, "x": 1400, "y": 720,
+      "userInfo": {"fullName": "Cherry Wang (王敏)", "shortName": "Cherry", "team": "EWS/Dev&Testing_BizOps", "title": "", "email": "", "phone": "", "skills": ["Java", "SQL"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 147, "x": 1450, "y": 730,
-      "userInfo": {"fullName": "Tiffany Zhu", "shortName": "Tiffany", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 147, "x": 1450, "y": 720,
+      "userInfo": {"fullName": "Tiffany Zhu (朱珊珊)", "shortName": "Tiffany", "team": "EWS/Dev&Testing_Autobots", "title": "", "email": "", "phone": "", "skills": ["Java", "SDET"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 148, "x": 1510, "y": 730,
-      "userInfo": {"fullName": "Fish Guo", "shortName": "Fish", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 148, "x": 1500, "y": 720,
+      "userInfo": {"fullName": "Fish Guo (郭燕平)", "shortName": "Fish", "team": "EWS/Dev&Testing_Autobots", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 149, "x": 1390, "y": 755,
-      "userInfo": {"fullName": "Michelle Zhang", "shortName": "Michelle", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 149, "x": 1400, "y": 740,
+      "userInfo": {"fullName": "Michelle Zhang (张琴)", "shortName": "Michelle", "team": "EWS/Dev&Testing_BizOps", "title": "", "email": "", "phone": "", "skills": ["Test", "SQL"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 150, "x": 1450, "y": 755,
+      "id": 150, "x": 1450, "y": 740,
       "userInfo": {"fullName": "", "shortName": "150", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 151, "x": 1510, "y": 755,
+      "id": 151, "x": 1500, "y": 740,
       "userInfo": {"fullName": "", "shortName": "151", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 152, "x": 1390, "y": 795,
-      "userInfo": {"fullName": "Sophia Wei", "shortName": "Sophia", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 152, "x": 1400, "y": 780,
+      "userInfo": {"fullName": "Sophia Wei (魏蔚)", "shortName": "Sophia", "team": "EWS/Dev&Testing_BizOps", "title": "", "email": "", "phone": "", "skills": ["Test", "DB", "SQL", "UI", "JAVA"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 153, "x": 1450, "y": 795,
+      "id": 153, "x": 1450, "y": 780,
       "userInfo": {"fullName": "", "shortName": "153", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 154, "x": 1510, "y": 795,
-      "userInfo": {"fullName": "Vineela Sharma", "shortName": "Vineela", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 154, "x": 1500, "y": 780,
+      "userInfo": {"fullName": "Vineela Sharma", "shortName": "Vineela", "team": "LPS", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 155, "x": 1570, "y": 560,
+      "id": 155, "x": 1550, "y": 560,
       "userInfo": {"fullName": "", "shortName": "155", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 156, "x": 1570, "y": 600,
-      "userInfo": {"fullName": "Roger Lin", "shortName": "Roger", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 156, "x": 1550, "y": 600,
+      "userInfo": {"fullName": "Roger Lin (林杰)", "shortName": "Roger", "team": "EWS/Dev&Testing_DreamWeaver", "title": "", "email": "", "phone": "", "skills": ["DB", "JAVA", "SQL", "C", "C++"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 157, "x": 1570, "y": 625,
-      "userInfo": {"fullName": "Leo Li", "shortName": "Leo", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 157, "x": 1550, "y": 620,
+      "userInfo": {"fullName": "Leo Li (李志斌)", "shortName": "Leo", "team": "EWS/Dev&Testing_EasternPirates", "title": "", "email": "", "phone": "", "skills": ["Test", "DB", "SQL", "Java", "scala"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 158, "x": 1570, "y": 665,
-      "userInfo": {"fullName": "Bruce Lan", "shortName": "Bruce", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 158, "x": 1550, "y": 660,
+      "userInfo": {"fullName": "Bruce Lan (兰重远)", "shortName": "Bruce", "team": "EWS/Dev&Testing_EasternPirates", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 159, "x": 1570, "y": 690,
+      "id": 159, "x": 1550, "y": 680,
       "userInfo": {"fullName": "", "shortName": "159", "team": "", "title": "", "email": "", "phone": "", "skills": []},
       "isOccupied": false
     }
   },
   {
     "seat": {
-      "id": 160, "x": 1570, "y": 730,
-      "userInfo": {"fullName": "Alec Chen", "shortName": "Alec", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 160, "x": 1550, "y": 720,
+      "userInfo": {"fullName": "Alec Chen (陈友梁)", "shortName": "Alec", "team": "EWS/Dev&Testing_Autobots", "title": "", "email": "", "phone": "", "skills": ["Java"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 161, "x": 1570, "y": 755,
-      "userInfo": {"fullName": "Echo Huang", "shortName": "Echo", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 161, "x": 1550, "y": 740,
+      "userInfo": {"fullName": "Eacho Huang (黄映芳)", "shortName": "Eacho", "team": "LPS", "title": "", "email": "", "phone": "", "skills": ["Test", "Java","Junit"]},
       "isOccupied": true
     }
   },
   {
     "seat": {
-      "id": 162, "x": 1570, "y": 795,
-      "userInfo": {"fullName": "Rock Zhu", "shortName": "Rock", "team": "", "title": "", "email": "", "phone": "", "skills": []},
+      "id": 162, "x": 1550, "y": 780,
+      "userInfo": {"fullName": "Rock Zhu (朱剑文)", "shortName": "Rock", "team": "LPS", "title": "", "email": "", "phone": "", "skills": [".Net", "DB", "BI", "SQL", "C#"]},
       "isOccupied": true
     }
   }
