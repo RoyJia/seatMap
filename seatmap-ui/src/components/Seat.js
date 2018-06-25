@@ -88,7 +88,14 @@ class Seat extends React.Component {
     return (
       <g id={seat_id}>
         {title}
-        <rect className="Seat_rect" id={seat_rect_id} style={{fill:this.seatColor()}} width={this.state.width} height={this.state.height} x={this.state.x} y={this.state.y}/>
+        <rect
+          className="Seat_rect"
+          id={seat_rect_id}
+          style={{fill:this.seatColor()}}
+          width={this.state.width}
+          height={this.state.height}
+          x={this.state.x}
+          y={this.state.y}/>
         <text
           className="Seat_text"
           id={seat_text_id}

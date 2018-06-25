@@ -1,0 +1,16 @@
+.MeetingRoom {
+
+}
+
+.MeetingRoom_rect {
+    stroke-width: 1;
+    stroke: #000000;
+    fill: #ffffff;
+    rx: 15
+}
+
+.MeetingRoom_text {
+    text-anchor: middle;
+    dominant-baseline: central;
+    font-family: monospace
+}
