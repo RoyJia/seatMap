@@ -1122,6 +1122,7 @@
   {
     "seat": {
       "id": 161, "x": 1550, "y": 740,
+      "userInfo": {"fullName": "Eacho Huang (黄映芳)", "shortName": "Eacho", "team": "LPS", "title": "", "email": "", "phone": "", "skills": ["Test", "Java","Junit"]},
       "isOccupied": true
     }
   },
