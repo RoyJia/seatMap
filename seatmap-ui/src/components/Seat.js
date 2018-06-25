@@ -17,6 +17,7 @@ class Seat extends React.Component {
       },
       isOccupied: props.isOccupied || false
     };
+    this.seatColor = this.seatColor.bind(this);
   }
 
   componentDidMount() {
@@ -25,6 +26,33 @@ class Seat extends React.Component {
       y: this.props.y + this.state.height/2
     }
     this.setState({userInfoCoordinate: userInfoCoordinate});
+  }
+
+  seatColor() {
+      switch(this.state.userInfo.team) {
+          case "Everest Deprecation": return "#ffde00";
+          case "Quality Engineering": return "#ffba54";
+          case "PE": return "#ffffcc";
+          case "OP": return "#ff0000";
+          case "GRO": return "#ff8053";
+          case "Hotels.com": return "#ff9bd4";
+          case "Platform": return "#d3cdff";
+          case "FESI": return "#ff5bc2";
+          case "LPAS and LIS DB": return "#ffd1a1";
+          case "Package and UDP": return "#ff858c";
+          case "Performance Testing": return "#b98d8d";
+          case "EPC Content": return "#99ccff";
+          case "EPC Review": return "#95ffd6";
+          case "LIS BNOS": return "#6a8aff";
+          case "LIS MIPS": return "#58b3ff";
+          case "LIS V2": return "#948fff";
+          case "EWS/Dev&Testing_Autobots": return "#adff95";
+          case "EWS/Dev&Testing_BizOps": return "#33ff00";
+          case "EWS/Dev&Testing_DreamWeaver": return "#99ff04";
+          case "EWS/Dev&Testing_EasternPirates": return "#43c9a1";
+          case "LPS": return "#25b800";
+          default: return "#cccccc"
+      }
   }
 
   render() {
@@ -52,6 +80,7 @@ class Seat extends React.Component {
       'Phone:\t' + this.state.userInfo.phone + '\n' +
       skills.substring(0, skills.length - 2);
 
+    // title only if seat occupied
     if (this.state.isOccupied) {
       title = <title>{seat_title}</title>;
     }
@@ -59,7 +88,7 @@ class Seat extends React.Component {
     return (
       <g id={seat_id}>
         {title}
-        <rect className="Seat_rect" id={seat_rect_id} width={this.state.width} height={this.state.height} x={this.state.x} y={this.state.y}/>
+        <rect className="Seat_rect" id={seat_rect_id} style={{fill:this.seatColor()}} width={this.state.width} height={this.state.height} x={this.state.x} y={this.state.y}/>
         <text
           className="Seat_text"
           id={seat_text_id}
