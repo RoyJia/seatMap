@@ -59,7 +59,6 @@ class MeetingRoom extends React.Component {
         <rect
           className="MeetingRoom_rect"
           id={meetingRoom_rect_id}
-          fill="#D7DF01"
           width={this.state.width}
           height={this.state.height}
           x={this.state.x}
