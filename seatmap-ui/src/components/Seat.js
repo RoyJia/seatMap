@@ -18,6 +18,7 @@ class Seat extends React.Component {
       isOccupied: props.isOccupied || false
     };
     this.seatColor = this.seatColor.bind(this);
+    // this.handleClick = this.handleClick.bind(this);
   }
 
   componentDidMount() {
@@ -55,6 +56,13 @@ class Seat extends React.Component {
     }
   }
 
+  // handleClick() {
+  //   // alert(this.state.userInfo.fullName);
+  //   this.setState(prevState => ({
+  //     width: prevState.width+20
+  //   }));
+  // }
+
   render() {
     let seat_id = `seat_${this.props.id}`,
       seat_rect_id = `seat_rect_${this.props.id}`,
@@ -91,7 +99,7 @@ class Seat extends React.Component {
         <rect
           className="Seat_rect"
           id={seat_rect_id}
-          style={{fill:this.seatColor()}}
+          fill={this.seatColor()}
           width={this.state.width}
           height={this.state.height}
           x={this.state.x}

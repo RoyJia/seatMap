@@ -32,15 +32,30 @@ class MeetingRoom extends React.Component {
       meetingRoom_rect_id = `meetingRoom_rect_${this.props.id}`,
       meetingRoom_text_id = `meetingRoom_text_${this.props.id}`;
 
-    let facilities = "Facilities:\t";
+    // setup font size
+    let textLength = 0, lengthAdjust = 'spacing';
+    if(this.state.roomInfo.name.length > this.state.width/10) {
+      textLength = 105;
+      lengthAdjust = 'spacingAndGlyphs';
+    }
+
+    // setup meetingRoom title
+    let facilities = "Facilities:\t", title = null;
     this.state.roomInfo.facilities.forEach(element => {
       facilities = facilities + element + ", ";
     });
 
-    let textX = this.state.roomInfoCoordinate.x;
+    const meetingRoom_title = "Name:\t" + this.state.roomInfo.name + '\n' +
+      'TEL:\t' + this.state.roomInfo.tel + '\n' +
+      'Capability:\t' + this.state.roomInfo.capability + '\n' +
+      facilities.substring(0, facilities.length - 2) + '\n' +
+      'Description:\t' + this.state.roomInfo.description;
+
+    title = <title>{meetingRoom_title}</title>;
 
     return (
       <g id={meetingRoom_id}>
+        {title}
         <rect
           className="MeetingRoom_rect"
           id={meetingRoom_rect_id}
@@ -51,15 +66,11 @@ class MeetingRoom extends React.Component {
         <text
           className="MeetingRoom_text"
           id={meetingRoom_text_id}
-          x={textX}
+          x={this.state.roomInfoCoordinate.x}
           y={this.state.roomInfoCoordinate.y}
-        >
-          <tspan x={textX} dy="1em">{`RoomName: ${this.state.roomInfo.name}`}</tspan>
-          <tspan x={textX} dy="1em">{`TEL: ${this.state.roomInfo.tel}`}</tspan>
-          <tspan x={textX} dy="1em">{`Capability: ${this.state.roomInfo.capability}`}</tspan>
-          <tspan x={textX} dy="1em">{facilities.substring(0, facilities.length - 2)}</tspan>
-          <tspan x={textX} dy="1em">{`Description: ${this.state.roomInfo.description}`}</tspan>
-        </text>
+          textLength={textLength}
+          lengthAdjust={lengthAdjust}
+        >{this.state.roomInfo.name}</text>
       </g>
     )
   }
