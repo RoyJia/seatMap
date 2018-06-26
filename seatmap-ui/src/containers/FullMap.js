@@ -57,20 +57,6 @@ class FullMap extends React.Component {
                 return <MeetingRoom key={item.meetingRoom.id} {...item.meetingRoom}/>
               })
             }
-
-            {/*<rect fill="#fff" stroke="#000" strokeWidth="1" x="70" y="300" width="210" height="60" id="svg_132" rx="15"/>*/}
-            {/*<rect fill="#fff" stroke="#000" strokeWidth="1" x="70" y="480" width="300" height="160" id="svg_133" rx="15"/>*/}
-            {/*<rect fill="#fff" stroke="#000" strokeWidth="1" x="1510" y="265" width="150" height="50" id="svg_134" rx="15"/>*/}
-            {/*<rect fill="#fff" stroke="#000" strokeWidth="1" x="1510" y="315" width="150" height="50" id="svg_135" rx="15"/>*/}
-            {/*<rect fill="#fff" stroke="#000" strokeWidth="1" x="1510" y="365" width="150" height="50" id="svg_136" rx="15"/>*/}
-            {/*<rect fill="#fff" stroke="#000" strokeWidth="1" x="1510" y="415" width="150" height="50" id="svg_137" rx="15"/>*/}
-            {/*<rect fill="#fff" stroke="#000" strokeWidth="1" x="1510" y="465" width="150" height="50" id="svg_138" rx="15"/>*/}
-            {/*<rect fill="#fff" stroke="#000" strokeWidth="1" x="1270" y="465" width="210" height="50" id="svg_139" rx="15"/>*/}
-            {/*<rect fill="#fff" stroke="#000" strokeWidth="1" x="1120" y="560" width="150" height="40" id="svg_140" rx="15"/>*/}
-            {/*<rect fill="#fff" stroke="#000" strokeWidth="1" x="1120" y="600" width="150" height="40" id="svg_141" rx="15"/>*/}
-            {/*<rect fill="#fff" stroke="#000" strokeWidth="1" x="1120" y="640" width="150" height="40" id="svg_142" rx="15"/>*/}
-            {/*<rect fill="#fff" stroke="#000" strokeWidth="1" x="1120" y="680" width="150" height="120" id="svg_143" rx="15"/>*/}
-            {/*<rect stroke="#000" fill="#fff" strokeWidth="1" x="520" y="80" width="150" height="100" id="svg_178" rx="15"/>*/}
           </g>
         </svg>
       </div>
